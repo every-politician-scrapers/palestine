@@ -108,6 +108,8 @@ Q98918800,Governor of Gaza Governorate,Q219060,Q762573,,,,,,,
 Q91013706,Governor of Nablus Governorate,Q219060,Q1074138,,,,,,,
 Q80205953,Governor of Qalqilya Governorate,Q219060,Q1074443,,,,,,,
 Q89188775,Governor of Rafah Governorate,Q219060,Q1074341,,,,,,,
+Q89834132,Governor of Ramallah and al-Bireh Governorate,Q219060,Q1093166,,,,,,,
+Q80205574,Governor of Salfit Governorate,Q219060,Q926530,,,,,,,
 Q80435579,Governor of Tubas Governorate,Q219060,Q948228,,,,,,,
 Q80205571,Governor of Tulkarm Governorate,Q219060,Q1093157,,,1995-11-21,,,,
 Q6030745,Information Minister of the Palestinian National Authority,,Q219060,,,,,,,Ministry of Information (State of Palestine)
@@ -121,6 +123,8 @@ Q30621639,Palestinian Ambassador to Chile,Q219060,,,,,,,,List of ambassadors of 
 Q30303260,Palestinian Ambassador to China,Q219060,,,Q106702083,,,,,
 Q106679738,Palestinian Ambassador to Lesotho,Q219060,,,,,,,,
 Q101086085,Palestinian Ambassador to Turkey,Q219060,,,,,,,,
+Q2336111,President of the Palestinian National Authority,Q42620,,,Q30092671,1994-07-05,,,Q3911022,President of the Palestinian National Authority
+Q111812570,President of the Palestinian National Council,Q219060,,,,,,,,
 Q3911022,President of the State of Palestine,Q219060,,,Q30092671,1989-04-02,,Q2336111,,President of the State of Palestine
 Q2344709,Prime Minister of the Palestinian National Authority,,,,,2003-03-19,2013-01-06,,Q15041211,Prime Minister of the Palestinian National Authority
 Q15041211,Prime Minister of the State of Palestine,Q219060,Q219060,,,2013-01-05,,Q2344709,,Prime Minister of the State of Palestine

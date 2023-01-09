@@ -21,6 +21,7 @@ Q114568789,Mona Abu Amara,mother,Q98713262,Intisar Abu Amara
 Q114784690,Salah al-Din Salah,relative,Q71397951,Abd al-Latif Salah
 Q114784690,Salah al-Din Salah,sibling,Q102228052,Abdullah Amin Salah
 Q12189830,Al Tayeb Abdul Rahim,father,Q12222828,ʻAbd al-Raḥīm Maḥmūd
+Q12216618,Salim Zanoun,sibling,Q99826714,رياض الزعنون
 Q127998,Mahmoud Abbas,child,Q8049874,Yasser Abbas
 Q127998,Mahmoud Abbas,spouse,Q30277579,Amina Abbas
 Q1963057,Leila Shahid,father,Q27709335,Munib Shahid
@@ -28,6 +29,10 @@ Q1963057,Leila Shahid,mother,Q3485269,Serene Husseini Shahid
 Q19976820,Hala Fariz,spouse,Q47526457,Musa Amer Odeh
 Q2213790,Salah Abdel Shafi,father,Q2587345,Haidar Abdel-Shafi
 Q2895694,Riyad al-Maliki,sibling,Q100742679,رؤوف المالكي
+Q34211,Yasser Arafat,relative,Q3280817,Nasser Al-Qasabi
+Q34211,Yasser Arafat,sibling,Q56560600,Khadija Arafat
+Q34211,Yasser Arafat,sibling,Q981221,Fathi Arafat
+Q34211,Yasser Arafat,spouse,Q253667,Suha Arafat
 Q47526457,Musa Amer Odeh,spouse,Q19976820,Hala Fariz
 Q89488504,Salah Tamari,spouse,Q2914726,Dina bint Abdul-Hamid
 Q89792760,Abdul Rahman Hamad,sibling,Q96240826,Amal Hamad
