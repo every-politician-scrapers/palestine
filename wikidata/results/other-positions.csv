@@ -1,64 +1,47 @@
 position,positionLabel,ofLabel,jurisdictionLabel,people,example
-Q101072444,سفير فلسطين لدى زيمبابوي,,,5,Q105098608
-Q106937730,مندوب فلسطين الدائم لدى جامعة الدول العربية,,,5,Q106777204
-Q104218271,سفير فلسطين لدى تشيلي,,,4,Q106777205
-Q101094727,سفير فلسطين لدى موريتانيا,,,4,Q101055268
-Q96406592,member of the Palestinian Legislative Council,,,4,Q106354875
-Q102015222,سفير فلسطين لدى ألبانيا,,,3,Q99456390
-Q102047638,Ambassador of Palestine to Belarus,,,3,Q111020086
-Q102047715,سفير فلسطين لدى أفغانستان,,,2,Q106678761
-Q102047690,سفير فلسطين لدى البوسنة والهرسك,,,2,Q82082019
-Q104214655,سفير فلسطين لدى المكسيك,,,2,Q104214649
-Q101095348,سفير فلسطين لدى المملكة المتحدة,,,2,Q6752623
-Q104223796,سفير فلسطين لدى الولايات المتحدة,,,2,Q5679529
-Q101800517,سفير فلسطين لدى جزر المالديف,,,2,Q106862716
-Q101960249,سفير فلسطين لدى طاجيكستان,,,2,Q99460893
-Q104208742,سفير فلسطين لدى موريشوس,,,2,Q104208260
+Q61895723,member of Fatah Revolutionary Council,,,7,Q101000941
+Q106937730,مندوب فلسطين الدائم لدى جامعة الدول العربية,,,6,Q106777204
+Q97328236,محافظ محافظة بيت لحم,,Bethlehem Governorate,5,Q99980497
+Q10540834,agriculture minister,,,4,Q99826716
+Q12339722,transport minister,,,4,Q101112386
+Q97771761,محافظ محافظة أريحا,,Jericho Governorate,3,Q104092295
+Q91013706,Governor of Nablus Governorate,,Nablus Governorate,3,Q97328201
+Q17578116,interior minister,,<noval>,3,Q16192933
+Q12303322,minister of labour,,,3,Q82059994
+Q766504,undersecretary,Ministry of Information (State of Palestine),,3,Q104098841
+Q99326583,membre du comité exécutif de l'Organisation de libération de la Palestine,,,3,Q70497114
+Q99947721,محافظ محافظة شمال غزة,,North Gaza Governorate,2,Q102512775
 Q70741427,Mayor of Tulkarm,,Tulkarm,2,Q115677439
 Q100605628,Secretary of the Executive Committee of the Palestine Liberation Organization,,,2,Q970706
-Q10540834,agriculture minister,,,2,Q99826716
+Q30778264,communications minister,,,2,Q96449608
+Q17618153,economy minister,,,2,Q96449608
 Q3273722,health minister,,<noval>,2,Q63349096
-Q17578116,interior minister,,<noval>,2,Q16192933
-Q61895723,member of Fatah Revolutionary Council,,,2,Q100704897
 Q13424386,minister of information,,,2,Q2895694
-Q12303322,minister of labour,,,2,Q82059994
-Q12339722,transport minister,,,2,Q101112386
 Q766504,undersecretary,Ministry of Foreign Affairs and Expatriates of the State of Palestine,,2,Q113361574
-Q766504,undersecretary,Ministry of Information (State of Palestine),,2,Q104098841
+Q106454719,رئيس بلدية بيت جالا,,,1,Q106448250
+Q106454718,رئيس بلدية يطا,,,1,Q106448868
 Q104217305,رئيس جامعة النجاح الوطنية,,An-Najah National University,1,Q13415154
 Q96382422,رئيس هيئة شؤون الأسرى والمحررين,,Commission of Detainees And Ex-Detainees Affairs,1,Q87737031
-Q87278953,رئيس هيئة مكافحة الفساد الفلسطينية,,State of Palestine,1,Q87276954
 Q107620056,سفير فلسطين لدى ألمانيا الغربية,,,1,Q307585
-Q104209448,سفير فلسطين لدى إندونيسيا,,,1,Q82082019
-Q105454511,سفير فلسطين لدى اليابان,,,1,Q4849108
-Q104760728,سفير فلسطين لدى بنين,,,1,Q9163227
-Q102016573,سفير فلسطين لدى زامبيا,,,1,Q102015800
-Q104812774,سفير فلسطين لدى فنلندا,,,1,Q101069269
-Q102047809,سفير فلسطين لدى لوكسمبورغ,,,1,Q102047791
-Q102047538,سفير فلسطين لدى مالطا,,,1,Q99581280
-Q106653101,سفير فلسطين لدى موزمبيق,,,1,Q101055268
-Q107625998,سفير فلسطين لدى يوغسلافيا,,,1,Q106765032
-Q97328243,محافظ محافظة الخليل,,Hebron Governorate,1,Q5949870
-Q96677747,محافظ محافظة جنين,,Jenin Governorate,1,Q99826716
+Q101098284,محافظ محافظة القدس,,,1,Q4683929
+Q99896049,محافظ محافظة خان يونس,,Khan Yunis Governorate,1,Q99947421
+Q99980516,مدير الأمن الوقائي الفلسطيني,,,1,Q99980497
 Q106941102,نقيب,نقابة المهندسين الفلسطينيين,,1,Q99017695
 Q64913414,نقيب الأطباء,,,1,Q20387804
-Q87401933,وزير الأوقاف والشؤون الدينية,,State of Palestine,1,Q16192933
-Q106522363,وزيرة شؤون المرأة,,,1,Q431835
 Q4376669,Chairman of the Palestine Liberation Organization,,,1,Q127998
 Q66712770,Deputy secretary general,مجلس وزراء الداخلية العرب,,1,Q99688835
-Q98918800,Governor of Gaza Governorate,,Gaza Governorate,1,Q307585
-Q89188775,Governor of Rafah Governorate,,Rafah Governorate,1,Q101792724
-Q80435579,Governor of Tubas Governorate,,Tubas Governorate,1,Q98409208
+Q89188926,Governor of Deir al-Balah Governorate,,Deir al-Balah Governorate,1,Q89170033
+Q80205953,Governor of Qalqilya Governorate,,Qalqilya Governorate,1,Q37199010
+Q80205571,Governor of Tulkarm Governorate,,Tulkarm Governorate,1,Q101104182
 Q100605588,Head of Negotiations Affairs Department,,,1,Q970706
+Q70740536,Mayor of Al-Bireh,,Al-Bireh,1,Q70497114
+Q80174917,Mayor of Bethlehem,,Bethlehem,1,Q1770922
 Q74837139,Mayor of Nablus,,Nablus,1,Q5949870
-Q100605583,Minister of Negotiations Affairs,,,1,Q970706
-Q70359193,Minister of Public Works and Housing,,,1,Q16192933
-Q70359193,Minister of Public Works and Housing,Palestinian Authority Government of February 2005,,1,Q16192933
-Q37202196,Minister of Youth and Sports,Palestinian Authority Government of October 2003,,1,Q89281074
+Q965321,Ministry of Supply,,,1,Q99826721
 Q2336111,President of the Palestinian National Authority,,,1,Q127998
-Q2344709,Prime Minister of the Palestinian National Authority,,,1,Q127998
+Q4119581,Speaker of the Palestinian Legislative Council,,,1,Q22932808
+Q10540834,agriculture minister,Palestinian Authority Government of 1996,,1,Q70497114
 Q106777296,ambassador of Palestine to Czechoslovakia,,,1,Q106777200
-Q91668102,ambassador of Palestine to Libya,,,1,Q101094664
 Q4741151,ambassador to Burkina Faso,,,1,Q99522189
 Q30063979,ambassador to Chad,,,1,Q99522189
 Q29641344,ambassador to Ivory Coast,,,1,Q99522189
@@ -73,25 +56,36 @@ Q217713,chargé d'affaires,Prosecutor General (Palestine),,1,Q97651631
 Q217713,chargé d'affaires,ambassador of Palestine to Bangladesh,,1,Q102177510
 Q217713,chargé d'affaires,ambassador of Palestine to Ethiopia,,1,Q111016581
 Q217713,chargé d'affaires,ambassadeur de Palestine au Liban,,1,Q99484538
+Q1501800,director general,وزارة الأشغال العامة والإسكان الفلسطينية,,1,Q70358563
 Q1501800,director general,Ministry of Foreign Affairs and Expatriates of the State of Palestine,,1,Q104098841
+Q1501800,director general,Ministry of Information (State of Palestine),,1,Q42342915
 Q1501800,director general,Ministry of Interior of the State of Palestine,,1,Q99688835
 Q1501800,director general,Palestinian Presidency Court,,1,Q102017803
-Q17618153,economy minister,,,1,Q27146386
+Q1126271,energy minister,,,1,Q89792760
 Q889821,governor,Ministry of Interior of the State of Palestine,<noval>,1,Q106678761
 Q3273722,health minister,Palestinian Authority Government of May 2012,<noval>,1,Q20387804
+Q10433493,housing minister,,,1,Q89792760
+Q83307,minister,,<noval>,1,Q89170033
+Q2621182,minister of culture,,,1,Q99894490
 Q12303322,minister of labour,Palestinian Authority Government of May 2012,,1,Q4695901
 Q12303322,minister of labour,gouvernement Salam Fayyad (3),,1,Q4695901
+Q22690704,minister of social affairs,,,1,Q10859680
+Q22690704,minister of social affairs,حكومة ياسر عرفات الأولى,,1,Q10859680
+Q22690704,minister of social affairs,حكومة ياسر عرفات الثالثة,,1,Q10859680
+Q22690704,minister of social affairs,Palestinian Authority Government of 1996,,1,Q10859680
+Q22690704,minister of social affairs,Palestinian Authority Government of April 2003,,1,Q10859680
+Q22690704,minister of social affairs,Palestinian Authority Government of October 2002,,1,Q10859680
+Q22690704,minister of social affairs,Palestinian government of June 2002,,1,Q10859680
 Q2632935,minister of state,Palestinian Authority Government of February 2005,,1,Q4695901
+Q168559,political commissar,State of Palestine,,1,Q101104182
 Q1255921,president,ديوان الموظفين العام (فلسطين),organization,1,Q5949870
 Q30461,president,Al-Quds University,,1,Q44776622
 Q1255921,president,Palestinian Economic Council for Development and Reconstruction,organization,1,Q16192933
 Q1255921,president,Palestinian Presidency Court,organization,1,Q5949870
+Q17221,spokesperson,Palestinian Security Services,,1,Q101104182
 Q766504,undersecretary,وزارة الأشغال العامة والإسكان الفلسطينية,,1,Q106798033
 Q766504,undersecretary,وزارة الحكم المحلي الفلسطينية,,1,Q5949870
 Q766504,undersecretary,Ministry of Interior of the State of Palestine,,1,Q106765032
 Q766504,undersecretary,Ministry of Tourism and Antiquities,,1,Q98409208
 Q99326714,membre du Conseil central de l'OLP,,Palestinian Central Council,1,Q334795
-Q99326583,membre du comité exécutif de l'Organisation de libération de la Palestine,,,1,Q334795
-Q99894834,ministre des Affaires de Jérusalem,,,1,Q2345173
-Q87743333,ministre du développement social,,State of Palestine,1,Q4695901
 Q99326416,secrétaire général du FPLP,,Popular Front for the Liberation of Palestine,1,Q334795
