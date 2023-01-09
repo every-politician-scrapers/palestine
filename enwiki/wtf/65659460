@@ -1,0 +1,203 @@
+{
+  "title": "Samir Taha",
+  "pageID": 65659460,
+  "categories": [
+    "20th-century Palestinian physicians",
+    "People from Jenin",
+    "Fatah members",
+    "University of Khartoum alumni",
+    "1961 births",
+    "Ambassadors of the State of Palestine to Sudan",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Samir Abdul Jabbar Ismail Taha, also known as Samir Taha, (سمير عبد الجبار إسماعيل طه; Born on 15 July 1961 in the city of Jenin – ) was a Palestinian physician, diplomat and member of the nationalist party Fatah.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jenin"
+                },
+                {
+                  "text": "Palestinian",
+                  "type": "internal",
+                  "page": "Palestinians"
+                },
+                {
+                  "text": "physician",
+                  "type": "internal",
+                  "page": "physician"
+                },
+                {
+                  "text": "diplomat",
+                  "type": "internal",
+                  "page": "diplomat"
+                },
+                {
+                  "text": "nationalist",
+                  "type": "internal",
+                  "page": "Palestinian nationalist"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fatah"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Samir Abdul Jabbar Ismail Taha",
+                  "Samir Taha"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was appointed ambassador of the State of Palestine to Sudan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "State of Palestine"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sudan"
+                }
+              ]
+            },
+            {
+              "text": "On March 20, 2013, he presented his official credentials to the Sudanese President Omar al-Bashir.",
+              "links": [
+                {
+                  "text": "Sudanese President",
+                  "type": "internal",
+                  "page": "List of heads of state of Sudan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Omar al-Bashir"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "df": "yes",
+          "year": "1961",
+          "month": "7",
+          "day": "15",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Samir Taha سمير طه"
+          },
+          "office": {
+            "text": "Palestinian Ambassador to Sudan",
+            "links": [
+              {
+                "text": "Palestinian Ambassador to Sudan",
+                "type": "internal",
+                "page": "List of ambassadors of the State of Palestine to Sudan"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "20 March 2013"
+          },
+          "birth_name": {
+            "text": "Samir Abdul Jabbar Ismail Taha"
+          },
+          "birth_date": {
+            "text": "July 15, 1961"
+          },
+          "birth_place": {
+            "text": "Jenin, Jordanian annexation of the West Bank",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jenin"
+              },
+              {
+                "type": "internal",
+                "page": "Jordanian annexation of the West Bank"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Palestinian"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Palestine-Sudan relations",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Palestine-Sudan relations"
+              }
+            ]
+          },
+          {
+            "text": "Embassy of the State of Palestine in Sudan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Embassy of the State of Palestine in Sudan"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "palestine-bio-stub"
+        }
+      ]
+    }
+  ]
+}

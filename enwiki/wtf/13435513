@@ -1,0 +1,143 @@
+{
+  "title": "Salah Abdel-Shafi",
+  "pageID": 13435513,
+  "categories": [
+    "Living people",
+    "1962 births",
+    "Palestinian economists",
+    "Ambassadors of the State of Palestine to Austria",
+    "Ambassadors of the State of Palestine to Germany",
+    "Ambassadors of the State of Palestine to Sweden"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Salah Abdel-Shafi (صلاح عبد الشافي born 1962 in Gaza City) is a Palestinian economist, and the Palestinian ambassador to Austria and permanent observer to the United Nations in Vienna, holding the position since September 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gaza City"
+                },
+                {
+                  "text": "Palestinian",
+                  "type": "internal",
+                  "page": "Palestinians"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Salah Abdel-Shafi"
+                ]
+              }
+            },
+            {
+              "text": "From 2010 to 2013 he served as the Palestinian ambassador to Germany, he was the first Palestinian representative to Germany to officially hold ambassadorial status."
+            },
+            {
+              "text": "From 2006 to 2010 he was the Palestinian ambassador to Sweden."
+            },
+            {
+              "text": "Formerly General Director of the Gaza Community Mental Health Program, a consultant, and adviser to the World Bank.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "World Bank"
+                }
+              ]
+            },
+            {
+              "text": "His father was the Palestinian political and community leader Haidar Abdel-Shafi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Haidar Abdel-Shafi"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "2010"
+          ],
+          "alt": "current",
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "H.E."
+          },
+          "name": {
+            "text": "Salah Abdel-Shafi"
+          },
+          "image": {
+            "text": "Salah Abdel-Shafi (cropped).jpg"
+          },
+          "imagesize": {
+            "text": "200px"
+          },
+          "office": {
+            "text": "Permanent Observer to the United Nations Offices in Vienna and Ambassador to the Federal Republic of Austria for Palestine [[image:Flag of Palestine.svg|25px]]",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Permanent Observer"
+              },
+              {
+                "text": "Palestine",
+                "type": "internal",
+                "page": "State of Palestine"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "September 2013"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.zeit.de/2012/35/Palaestina-Botschafter-Berlinlanguage=Germantitle=Ein Botschafter, der Keiner sein darf",
+          "accessdate": "6 October 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.forward.com/articles/14907/",
+          "title": "What Happens to Gaza When the Fighting Stops?",
+          "last": "Jeffay",
+          "first": "Nathan",
+          "date": "8 January 2009",
+          "publisher": "Forward.com",
+          "accessdate": "2 January 2012",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "palestine-bio-stub"
+        }
+      ]
+    }
+  ]
+}

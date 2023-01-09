@@ -1,0 +1,220 @@
+{
+  "title": "Khaled Aref",
+  "pageID": 65318835,
+  "categories": [
+    "Palestinian politicians",
+    "Palestinian refugees",
+    "1946 births",
+    "Ambassadors of the State of Palestine to Bahrain",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Taha Abdel Kader, also known as Khaled Aref, (طه محمد محمود عبد القادر, also known by his kunya Abu Adham أبو أدهم—\"Adham's Father\"; Born in 1946 in Kaukab Abu al-Hija village – ) was a Palestinian politician, diplomat and member of the nationalist party Fatah.",
+              "links": [
+                {
+                  "text": "kunya",
+                  "type": "internal",
+                  "page": "Kunya (Arabic)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kaukab Abu al-Hija"
+                },
+                {
+                  "text": "Palestinian",
+                  "type": "internal",
+                  "page": "Palestinians"
+                },
+                {
+                  "text": "nationalist",
+                  "type": "internal",
+                  "page": "Palestinian nationalist"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fatah"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Taha Abdel Kader",
+                  "Khaled Aref",
+                  "Abu Adham"
+                ],
+                "italic": [
+                  "kunya"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On October 6, 2010, he was appointed Ambassador of the State of Palestine to Bahrain by Palestinian President Mahmoud Abbas.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "State of Palestine"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mahmoud Abbas"
+                }
+              ]
+            },
+            {
+              "text": "On April 12, 2011, he presented his credentials to the King of Bahrain, Hamad bin Isa Al Khalifa.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hamad bin Isa Al Khalifa"
+                }
+              ]
+            },
+            {
+              "text": "On September 11, 2020, the Palestinian Ministry of Foreign Affairs and Expatriates decided to withdraw him from Bahrain as a result of Bahrain–Israel normalization agreement.",
+              "links": [
+                {
+                  "text": "Ministry of Foreign Affairs and Expatriates",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs and Expatriates (Palestine)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bahrain–Israel normalization agreement"
+                }
+              ]
+            },
+            {
+              "text": "On 18 Nov 2020, he returned to Bahrain."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Palestine's ambassador to Bahrain",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "File:خالد عارف.jpg"
+          },
+          "name": {
+            "text": "Khaled Aref خالد عارف"
+          },
+          "office": {
+            "text": "Palestinian Ambassador to Bahrain",
+            "links": [
+              {
+                "text": "Palestinian Ambassador to Bahrain",
+                "type": "internal",
+                "page": "List of ambassadors of the State of Palestine to Bahrain"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "12 April 2011"
+          },
+          "birth_name": {
+            "text": "Taha Mohammad Mahmoud Abdul Kader"
+          },
+          "birth_date": {
+            "text": "1946",
+            "number": 1946
+          },
+          "birth_place": {
+            "text": "Kaukab Abu al-Hija, Mandatory Palestine",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kaukab Abu al-Hija"
+              },
+              {
+                "type": "internal",
+                "page": "Mandatory Palestine"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Palestinian"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Palestine-Bahrain relations",
+            "links": [
+              {
+                "text": "Palestine-Bahrain relations",
+                "type": "internal",
+                "page": "Palestine–Bahrain relations"
+              }
+            ]
+          },
+          {
+            "text": "Embassy of the State of Palestine in Bahrain",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Embassy of the State of Palestine in Bahrain"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "palestine-bio-stub"
+        }
+      ]
+    }
+  ]
+}
