@@ -1,12 +1,23 @@
 position,title
 Q87277396,Prosecutor General
+Q87278953,Chair of the Anti-Corruption Commission
+Q98918800,Governor of Gaza
+Q96677747,Governor of Genin
+Q97328243,Governor of Hebron
+Q89188775,Governor of Rafah
+Q80435579,Governor of Tubas
+Q102047715,ambassador to Afghanistan
+Q102015222,ambassador to Albania
 Q101960214,ambassador to Algeria
 Q107001156,ambassador to Argentina
 Q101069519,ambassador to Australia
 Q104839968,ambassador to Austria
 Q106660354,ambassador to Bahrain
 Q102177556,ambassador to Bangladesh
+Q102047638,ambassador to Belarus
 Q102047807,ambassador to Belgium
+Q104760728,ambassador to Benin
+Q102047690,ambassador to Bosnia and Herzegovina
 Q106680466,ambassador to Botswana
 Q100997853,ambassador to Brazil
 Q106862734,ambassador to Brunei
@@ -14,6 +25,7 @@ Q102064433,ambassador to Bulgaria
 Q40338377,ambassador to Canada
 Q100997864,ambassador to Cape Verde
 Q30621639,ambassador to Chile
+Q104218271,ambassador to Chile
 Q100742713,ambassador to Colombia
 Q113928357,ambassador to Croatia
 Q100997852,ambassador to Cuba
@@ -25,6 +37,7 @@ Q101094728,ambassador to Egypt
 Q100723462,ambassador to El Salvador
 Q104208778,ambassador to Ethiopia
 Q102047810,ambassador to the European Union
+Q104812774,ambassador to Finland
 Q100151871,ambassador to France
 Q100997867,ambassador to the Gambia
 Q100151872,ambassador to Germany
@@ -36,9 +49,11 @@ Q100723466,ambassador to Honduras
 Q101095241,ambassador to Hungary
 Q101095264,ambassador to Iceland
 Q96771094,ambassador to India
+Q104209448,ambassador to Indonesia
 Q100790493,ambassador to Iran
 Q100151852,ambassador to Iraq
 Q100268457,ambassador to Italy
+Q105454511,ambassador to Japan
 Q98923074,ambassador to Jordan
 Q102016481,ambassador to Kazakhstan
 Q104208138,ambassador to Kenya
@@ -46,12 +61,20 @@ Q100151876,ambassador to Kuwait
 Q102047712,ambassador to Kyrgyzstan
 Q100151870,ambassador to Lebanon
 Q106679738,ambassador to Lesotho
+Q91668102,ambassador of Libya
 Q104812775,ambassador to Lithuania
+Q102047809,ambassador to Luxembourg
 Q106679636,ambassador to Malawi
 Q106430815,ambassador to Malaysia
+Q101800517,ambassador to the Maldives
 Q107600545,ambassador to Mali
+Q102047538,ambassador to Malta
+Q101094727,ambassador to Mauritania
+Q104208742,ambassador to Mauritius
+Q104214655,ambassador to Mexico
 Q106678888,ambassador to Montenegro
 Q104093970,ambassador to Morocco
+Q106653101,ambassador to Mozambique
 Q105412564,ambassador to Namibia
 Q104218078,ambassador to the Netherlands
 Q100723464,ambassador to Nicaragua
@@ -80,6 +103,7 @@ Q100743864,ambassador to Sudan
 Q102047924,ambassador to Sweden
 Q108552993,ambassador to Switzerland
 Q106519598,ambassador to Syria
+Q101960249,ambassador to Tajikistan
 Q104208141,ambassador to Tanzania
 Q106862726,ambassador to Thailand
 Q100151869,ambassador to Tunisia
@@ -88,8 +112,13 @@ Q102047710,ambassador to Turkmenistan
 Q104208766,ambassador to Uganda
 Q107456235,ambassador to Ukraine
 Q102018856,ambassador to the United Arab Emirates
+Q101095348,ambassador to the United Kingdom
+Q104223796,ambassador to the United States
 Q100997844,ambassador to Uruguay
 Q102022723,ambassador to Uzbekistan
 Q106798776,ambassador to the Holy See
 Q96758260,ambassador to Venezuela
 Q101094694,ambassador to Yemen
+Q107625998,ambassador to Yugoslavia
+Q102016573,ambassador to Zambia
+Q101072444,ambassador to Zimbabwe
