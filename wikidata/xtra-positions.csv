@@ -1,11 +1,19 @@
 position,title
+Q4119581,Speaker of the Palestinian Legislative Council
 Q87277396,Prosecutor General
 Q87278953,Chair of the Anti-Corruption Commission
+Q97328236,Governor of Bethlehem
+Q89188926,Governor of Deir al-Balah
 Q98918800,Governor of Gaza
 Q96677747,Governor of Genin
 Q97328243,Governor of Hebron
+Q97771761,Governor of Jericho
+Q99947721,Governor of North Gaza
+Q80205953,Governor of Qalqilya
 Q89188775,Governor of Rafah
+Q91013706,Governor of Nablus
 Q80435579,Governor of Tubas
+Q80205571,Governor of Tulkarm
 Q102047715,ambassador to Afghanistan
 Q102015222,ambassador to Albania
 Q101960214,ambassador to Algeria
@@ -122,3 +130,4 @@ Q101094694,ambassador to Yemen
 Q107625998,ambassador to Yugoslavia
 Q102016573,ambassador to Zambia
 Q101072444,ambassador to Zimbabwe
+Q106937730,Permanent Representative to the Arab League
