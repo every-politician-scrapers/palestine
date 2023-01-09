@@ -1,1 +1,10 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+ordinal,item,itemLabel,inception,inceptionPrecision,abolished,abolishedPrecision,replaces,replacesLabel,replacedBy,replacedByLabel
+,Q3111841,Q3111841,,,,,,,,
+,Q7127414,Palestinian government of November 2003,2003-01-01,9,2006-01-01,9,,,,
+,Q1785556,Palestinian government of March 2006,2006-01-01,9,2007-01-01,9,,,,
+,Q1484596,Palestinian government of June 2007,2007-01-01,9,2009-01-01,9,Q674336,Palestinian March 2007 National Unity Government,Q13415154,Rami Hamdallah
+,Q674336,Palestinian March 2007 National Unity Government,2007-01-01,9,2007-01-01,9,,,Q1484596,Palestinian government of June 2007
+,Q1348077,Palestinian government of 2009,2009-01-01,9,2013-01-01,9,,,,
+,Q15931019,Palestinian government of 2013,2013-06-01,10,,,,,,
+,Q17137343,Palestinian government of 2014,2014-06-02,11,2019-01-01,9,,,,
+,Q87367437,Palestinian government of 2019,2019-04-13,11,,,,,,
