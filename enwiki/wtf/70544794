@@ -1,0 +1,101 @@
+{
+  "title": "Fadi al-Hadami",
+  "pageID": 70544794,
+  "categories": [
+    "Living people",
+    "Palestinian politicians",
+    "1977 births",
+    "People from Jerusalem",
+    "Palestinian economists",
+    "The American University in Cairo alumni",
+    "Alumni of the University of Manchester Institute of Science and Technology"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Fadi al-Hadami (born; 4 November 1977 فادي الهدمي) is a Palestinian politician who is currently serving as Minister of Jerusalem Affairs in the Palestinian Authority since April 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Palestinian"
+                },
+                {
+                  "type": "internal",
+                  "page": "Palestinian Authority"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Fadi al-Hadami"
+                ]
+              }
+            },
+            {
+              "text": "He has also served as Director-general of the Jerusalem Chamber of Commerce and Investment.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jerusalem Chamber of Commerce and Investment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Fadi al-Hadami was arrested in 2020 by Israeli authorities."
+            },
+            {
+              "text": "Earlier, Fadi was arrested in late July 2019 in the eastern part of Jerusalem and held for several hours."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Palestinian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://ecfr.eu/special/mapping_palestinian_politics/fadi_al_hidmi/",
+          "title": "Fadi al-Hidmi (Minister for Jerusalem) – Mapping Palestinian Politics – European Council on Foreign Relations",
+          "date": "11 April 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.aa.com.tr/en/middle-east/israel-arrests-palestines-jerusalem-minister/1790639",
+          "title": "Israel arrests Palestine's Jerusalem minister",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.aljazeera.com/news/2019/9/25/israel-arrests-palestines-jerusalem-minister-fadi-al-hadami",
+          "title": "Israel arrests Palestine's Jerusalem affairs minister",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "palestine-politician-stub"
+        }
+      ]
+    }
+  ]
+}
