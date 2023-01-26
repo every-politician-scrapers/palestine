@@ -239,6 +239,13 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Upon the report to United Nations from palestine, regarding injustice and oppression of Israel from his foreign office, His VIP travel card was confiscated by Israeli border security as per the instructions of Benjamin Netanyahu."
+            }
+          ]
         }
       ],
       "references": [
@@ -272,6 +279,17 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "last": "Reuters",
+          "date": "2023-01-08",
+          "title": "Israel takes Palestinian FM’s VIP pass in world court flap",
+          "url": "https://www.dawn.com/news/1730574",
+          "access-date": "2023-01-26",
+          "website": "DAWN.COM",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         },
         {
           "template": "citation",
