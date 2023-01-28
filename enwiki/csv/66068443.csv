@@ -1,4 +1,4 @@
-who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
-66068443,List of ambassadors of the State of Palestine to Morocco,Palestinian Ambassador to Morocco,2018-01-26,,,,,,0
-66068443,List of ambassadors of the State of Palestine to Egypt,Palestinian Ambassador to Egypt,2006,2013,,,,,1
-66068443,List of ambassadors of the State of Palestine to Saudi Arabia,Palestinian Ambassador to Saudi Arabia,2014,2017,,,,,2
+who,position,began,ended
+66068443,Palestinian Ambassador to Egypt,2006,2013
+66068443,Palestinian Ambassador to Saudi Arabia,2014,2017
+66068443,Palestinian Ambassador to Morocco,2018-01-26,

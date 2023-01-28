@@ -1,4 +1,4 @@
-who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
-4146163,Q2336111,Interim President of the Palestinian National Authority,2016-10-19,,Q127998,Mahmoud Abbas,,,0
-4146163,,,2009-01-15,2014-06-02,Q127998,Mahmoud Abbas,Q127998,Mahmoud Abbas,1
-4146163,Q4119581,Speaker of the Palestinian Legislative Council,2006-03-29,,Q962747,Rawhi Fattouh,,,2
+who,position,began,ended
+4146163,Speaker of the Palestinian Legislative Council,2006-03-29,
+4146163,Interim President of the Palestinian National Authority,2009-01-15,2014-06-02
+4146163,Interim President of the Palestinian National Authority,2016-10-19,

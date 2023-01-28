@@ -1,2 +1,2 @@
-who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
-1157419,Q2336111,Interim President of the Palestinian National Authority,2004-11-11,2005-01-15,Q34211,Yasser Arafat,Q127998,Mahmoud Abbas,0
+who,position,began,ended
+1157419,Interim President of the Palestinian National Authority,2004-11-11,2005-01-15
