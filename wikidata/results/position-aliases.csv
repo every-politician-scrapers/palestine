@@ -1,345 +1,432 @@
 position,title
-Q100151852,سفير فلسطين لدى العراق
-Q100151852,ambassador of Palestine to Iraq
 Q100151852,ambassadeur de Palestine en Irak
+Q100151852,ambassador of Palestine to Iraq
+Q100151852,ambassador to Iraq
 Q100151852,ambassadrice de Palestine en Irak
-Q100151869,سفير فلسطين لدى تونس
+Q100151852,سفير فلسطين لدى العراق
 Q100151869,ambaixador de Palestina a Tunísia
-Q100151869,ambassador of Palestine to Tunisia
 Q100151869,ambassadeur de Palestine en Tunisie
-Q100151870,سفير فلسطين لدى لبنان
+Q100151869,ambassador of Palestine to Tunisia
+Q100151869,ambassador to Tunisia
+Q100151869,سفير فلسطين لدى تونس
 Q100151870,ambassadeur de Palestine au Liban
+Q100151870,ambassador to Lebanon
 Q100151870,ambassadrice de Palestine au Liban
-Q100151871,سفير فلسطين لدى فرنسا
+Q100151870,سفير فلسطين لدى لبنان
+Q100151871,ambassador to France
 Q100151871,délégué général de Palestine en France
-Q100151872,سفير فلسطين لدى ألمانيا
+Q100151871,سفير فلسطين لدى فرنسا
 Q100151872,ambaixador de Palestina a Alemanya
 Q100151872,ambassadeur de Palestine en Allemagne
+Q100151872,ambassador to Germany
 Q100151872,ambassadrice de Palestine en Allemagne
-Q100151876,سفير فلسطين لدى الكويت
+Q100151872,سفير فلسطين لدى ألمانيا
 Q100151876,ambassadeur de Palestine au Koweït
+Q100151876,ambassador to Kuwait
 Q100151876,ambassadrice de Palestine au Koweït
-Q100255679,سفير فلسطين لدى جنوب أفريقيا
+Q100151876,سفير فلسطين لدى الكويت
 Q100255679,ambassadeur de Palestine en Afrique du Sud
+Q100255679,ambassador to South Africa
 Q100255679,ambassadrice de Palestine en Afrique du Sud
-Q100268457,سفير فلسطين لدى إيطاليا
+Q100255679,سفير فلسطين لدى جنوب أفريقيا
 Q100268457,Llysgennad Palesteina i'r Eidal
 Q100268457,ambassadeur de Palestine en Italie
+Q100268457,ambassador to Italy
 Q100268457,ambassadrice de Palestine en Italie
 Q100268457,lyskannas Palestayn dhe Itali
-Q100556190,سفير فلسطين لدى اليونان
+Q100268457,سفير فلسطين لدى إيطاليا
 Q100556190,ambassadeur de Palestine en Grèce
+Q100556190,ambassador to Greece
 Q100556190,ambassadrice de Palestine en Grèce
-Q100605583,وزير شؤون المفاوضات
-Q100605583,ministre de Negociacions
+Q100556190,سفير فلسطين لدى اليونان
+Q100605583,Minister of Negotiations
 Q100605583,Minister of Negotiations Affairs
 Q100605583,Minister of Negotiations Affairs Department of Palestine
-Q100605583,ministre des négociations de l'OLP
 Q100605583,Ministro dei Afari Negosiałi
-Q100704932,سفير فلسطين لدى باكستان
-Q100704932,ambaixador de Palestina al Pakistan
+Q100605583,ministre de Negociacions
+Q100605583,ministre des négociations de l'OLP
+Q100605583,وزير شؤون المفاوضات
 Q100704932,Ambassador of Palestine to Pakistan
-Q100704932,embajador de Palestina en Pakistán
+Q100704932,ambaixador de Palestina al Pakistan
 Q100704932,ambassadeur de Palestine au Pakistan
+Q100704932,ambassador to Pakistan
+Q100704932,embajador de Palestina en Pakistán
+Q100704932,سفير فلسطين لدى باكستان
+Q100723462,ambassador to El Salvador
 Q100723462,سفير فلسطين لدى السلفادور
+Q100723464,ambassador to Nicaragua
 Q100723464,سفير فلسطين لدى نيكاراغوا
+Q100723466,ambassador to Honduras
 Q100723466,سفير فلسطين لدى هندوراس
+Q100742713,ambassador to Colombia
 Q100742713,سفير فلسطين لدى كولومبيا
-Q100743864,سفير فلسطين لدى السودان
 Q100743864,Ambassador of Palestine to Sudan
-Q100743864,ambassadeur de Palestine au Soudan
 Q100743864,Anbasador de Pałestina in Sudan
-Q100790493,سفير فلسطين لدى إيران
+Q100743864,ambassadeur de Palestine au Soudan
+Q100743864,ambassador to Sudan
+Q100743864,سفير فلسطين لدى السودان
 Q100790493,Ambassador of Palestine in Iran
-Q100790493,ambassadeur de Palestine en Iran
-Q100790493,שגריר פלסטין באיראן
 Q100790493,Anbasador de Pałestina in Iran
+Q100790493,ambassadeur de Palestine en Iran
+Q100790493,ambassador to Iran
+Q100790493,שגריר פלסטין באיראן
+Q100790493,سفير فلسطين لدى إيران
+Q100997842,ambassador to Ecuador
 Q100997842,سفير فلسطين لدى الإكوادور
+Q100997844,ambassador to Uruguay
 Q100997844,سفير فلسطين لدى الأوروغواي
+Q100997845,ambassador to Peru
 Q100997845,سفير فلسطين لدى بيرو
-Q100997852,سفير فلسطين لدى كوبا
 Q100997852,ambaixador de Palestina a Cuba
-Q100997853,سفير فلسطين لدى البرازيل
+Q100997852,ambassador to Cuba
+Q100997852,سفير فلسطين لدى كوبا
 Q100997853,ambaixador de Palestina al Brasil
 Q100997853,ambassador of Palestine to Brazil
+Q100997853,ambassador to Brazil
+Q100997853,سفير فلسطين لدى البرازيل
+Q100997863,ambassador to Senegal
 Q100997863,سفير فلسطين لدى السنغال
+Q100997864,ambassador to Cape Verde
 Q100997864,سفير فلسطين لدى الرأس الأخضر
+Q100997865,ambassador to Guinea-Bissau
 Q100997865,سفير فلسطين لدى غينيا بيساو
+Q100997867,ambassador to the Gambia
 Q100997867,سفير فلسطين لدى غامبيا
+Q101069519,ambassador to Australia
 Q101069519,سفير فلسطين لدى أستراليا
-Q101072442,سفير فلسطين لدى أيرلندا
 Q101072442,ambassadeur de Palestine en Irlande
+Q101072442,ambassador to Ireland
+Q101072442,سفير فلسطين لدى أيرلندا
+Q101072444,ambassador to Zimbabwe
 Q101072444,سفير فلسطين لدى زيمبابوي
-Q101086073,سفير فلسطين لدى روسيا
 Q101086073,ambassadeur de Palestine en Russie
-Q101086073,سفير فلسطين لدى روسيا
+Q101086073,ambassador to the Russian Federation
 Q101086073,посол Государства Палестина в России
-Q101086085,سفير فلسطين لدى تركيا
+Q101086073,سفير فلسطين لدى روسيا
 Q101086085,Palestinian Ambassador to Turkey
-Q101086085,embajador de Palestina en Turquía
 Q101086085,ambassadeur de Palestine en Turquie
+Q101086085,ambassador to Turkey
+Q101086085,embajador de Palestina en Turquía
 Q101086085,посол Государства Палестина в Турции
-Q101094692,سفير فلسطين لدى السعودية
+Q101086085,سفير فلسطين لدى تركيا
 Q101094692,ambaixador de Palestina a Aràbia Saudita
-Q101094692,ambassador of Palestine to Saudi Arabia
 Q101094692,ambassadeur de Palestine en Arabie saoudite
+Q101094692,ambassador of Palestine to Saudi Arabia
+Q101094692,ambassador to Saudi Arabia
+Q101094692,سفير فلسطين لدى السعودية
+Q101094694,ambassador to Yemen
 Q101094694,سفير فلسطين لدى اليمن
+Q101094727,ambassador to Mauritania
 Q101094727,سفير فلسطين لدى موريتانيا
-Q101094728,سفير فلسطين لدى مصر
 Q101094728,ambaixador de Palestina a Egipte
+Q101094728,ambassador to Egypt
 Q101094728,سفير فلسطين لدى مصر
-Q101095241,سفير فلسطين لدى المجر
-Q101095241,ambaixador de Palestina a Hongria
-Q101095241,ambassador of Palestine to Hungary
-Q101095241,ambassadeur de Palestine en Hongrie
-Q101095241,Palesztina magyarországi nagykövete
-Q101095241,palesztin nagykövet Magyarországon
 Q101095241,Anbasador de ła Pałestina in Ungaria
-Q101095257,سفير فلسطين لدى النرويج
-Q101095257,ambassador of Palestine to Norway
-Q101095257,ambassadeur de Palestine en Norvège
-Q101095257,Palestinas ambassadør til Norge
+Q101095241,Palesztina magyarországi nagykövete
+Q101095241,ambaixador de Palestina a Hongria
+Q101095241,ambassadeur de Palestine en Hongrie
+Q101095241,ambassador of Palestine to Hungary
+Q101095241,ambassador to Hungary
+Q101095241,palesztin nagykövet Magyarországon
+Q101095241,سفير فلسطين لدى المجر
 Q101095257,Anbasador de Pałestina in Norveja
-Q101095264,سفير فلسطين لدى آيسلندا
-Q101095264,ambassador of Palestine to Iceland
-Q101095264,ambassadeur de Palestine en Islande
+Q101095257,Palestinas ambassadør til Norge
+Q101095257,ambassadeur de Palestine en Norvège
+Q101095257,ambassador of Palestine to Norway
+Q101095257,ambassador to Norway
+Q101095257,سفير فلسطين لدى النرويج
 Q101095264,Anbasador de ła Pałestina in Islanda
+Q101095264,ambassadeur de Palestine en Islande
+Q101095264,ambassador of Palestine to Iceland
+Q101095264,ambassador to Iceland
+Q101095264,سفير فلسطين لدى آيسلندا
+Q101095348,ambassador to the United Kingdom
 Q101095348,سفير فلسطين لدى المملكة المتحدة
-Q101095357,سفير فلسطين لدى الدنمارك
 Q101095357,ambassadeur de Palestine au Danemark
+Q101095357,ambassador to Denmark
+Q101095357,سفير فلسطين لدى الدنمارك
+Q101098284,Governor of Jerusalem
 Q101098284,محافظ محافظة القدس
+Q101800517,ambassador to the Maldives
 Q101800517,سفير فلسطين لدى جزر المالديف
+Q101960214,ambassador to Algeria
 Q101960214,سفير فلسطين لدى الجزائر
+Q101960249,ambassador to Tajikistan
 Q101960249,سفير فلسطين لدى طاجيكستان
+Q102015222,ambassador to Albania
 Q102015222,سفير فلسطين لدى ألبانيا
+Q102016481,ambassador to Kazakhstan
 Q102016481,سفير فلسطين لدى كازخستان
+Q102016527,ambassador to Cyprus
 Q102016527,سفير فلسطين لدى قبرص
+Q102016573,ambassador to Zambia
 Q102016573,سفير فلسطين لدى زامبيا
+Q102018856,ambassador to the United Arab Emirates
 Q102018856,سفير فلسطين لدى الإمارات
-Q102022723,سفير فلسطين لدى أوزباكستان
+Q102022723,ambassador to Uzbekistan
 Q102022723,посол Государства Палестина в Узбекистане
+Q102022723,سفير فلسطين لدى أوزباكستان
+Q102047538,ambassador to Malta
 Q102047538,سفير فلسطين لدى مالطا
+Q102047634,ambassador to Nigeria
 Q102047634,سفير فلسطين لدى نيجيريا
-Q102047638,سفير فلسطين لدى بيلاروس
 Q102047638,Ambassador of Palestine to Belarus
+Q102047638,ambassador to Belarus
+Q102047638,سفير فلسطين لدى بيلاروس
+Q102047690,ambassador to Bosnia and Herzegovina
 Q102047690,سفير فلسطين لدى البوسنة والهرسك
-Q102047710,سفير فلسطين لدى تركمنستان
-Q102047710,ambassador of Palestine to Turkmenistan
 Q102047710,ambassadeur de Palestine au Turkménistan
+Q102047710,ambassador of Palestine to Turkmenistan
+Q102047710,ambassador to Turkmenistan
+Q102047710,سفير فلسطين لدى تركمنستان
+Q102047712,ambassador to Kyrgyzstan
 Q102047712,سفير فلسطين لدى قيرغيزستان
+Q102047715,ambassador to Afghanistan
 Q102047715,سفير فلسطين لدى أفغانستان
-Q102047807,سفير فلسطين لدى بلجيكا
 Q102047807,ambassador of Palestine to Belgium
+Q102047807,ambassador to Belgium
+Q102047807,سفير فلسطين لدى بلجيكا
+Q102047809,ambassador to Luxembourg
 Q102047809,سفير فلسطين لدى لوكسمبورغ
-Q102047810,سفير فلسطين لدى الاتحاد الأوروبي
 Q102047810,ambassadeur de Palestine auprès de l'Union Européenne
+Q102047810,ambassador to the European Union
 Q102047810,ambassadrice de Palestine auprès de l'Union Européenne
-Q102047924,سفير دولة فلسطين لدى مملكة السويد
-Q102047924,سفير فلسطين لدى السويد
-Q102047924,ambaixador de Palestina a Suècia
-Q102047924,Botschafter Palästinas in Schweden
-Q102047924,Botschafter des Staates Palästina im Königreich Schweden
+Q102047810,سفير فلسطين لدى الاتحاد الأوروبي
 Q102047924,Ambassador of Palestine to Sweden
 Q102047924,Ambassador of the State of Palestine to the Kingdom of Sweden
-Q102047924,Palestinian Ambassador to Sweden
+Q102047924,Botschafter Palästinas in Schweden
+Q102047924,Botschafter des Staates Palästina im Königreich Schweden
 Q102047924,Embajador de Palestina en Suecia
-Q102047924,ambassadeur de Palestine en Suède
-Q102047924,Посол Палестины в Швеции
 Q102047924,Palestinas ambassadör i Sverige
+Q102047924,Palestinian Ambassador to Sweden
+Q102047924,ambaixador de Palestina a Suècia
+Q102047924,ambassadeur de Palestine en Suède
+Q102047924,ambassador to Sweden
+Q102047924,Посол Палестины в Швеции
+Q102047924,سفير دولة فلسطين لدى مملكة السويد
+Q102047924,سفير فلسطين لدى السويد
 Q102047924,巴勒斯坦驻瑞典大使
-Q102064412,سفير فلسطين لدى كوريا الشمالية
 Q102064412,ambassador of Palestine  to North Korea
-Q102064433,سفير فلسطين لدى بلغاريا
+Q102064412,ambassador to North Korea
+Q102064412,سفير فلسطين لدى كوريا الشمالية
 Q102064433,ambassador of Palestine to Bulgaria
+Q102064433,ambassador to Bulgaria
+Q102064433,سفير فلسطين لدى بلغاريا
+Q102176935,ambassador to Poland
 Q102176935,سفير فلسطين لدى بولندا
-Q102177556,سفير فلسطين لدى بنغلاديش
 Q102177556,ambassador of Palestine to Bangladesh
-Q102177640,سفير فلسطين لدى البرتغال
-Q102177640,ambaixador de Palestina a Portugal
-Q102177640,ambassador of Palestine to Portugal
-Q102177640,ambassadeur de Palestine au Portugal
-Q102177640,ambassadrice de Palestine au Portugal
+Q102177556,ambassador to Bangladesh
+Q102177556,سفير فلسطين لدى بنغلاديش
 Q102177640,Anbasador de ła Pałestina in Portogało
-Q104093970,سفير فلسطين لدى المغرب
-Q104093970,ambaixador de Palestina al Marroc
+Q102177640,ambaixador de Palestina a Portugal
+Q102177640,ambassadeur de Palestine au Portugal
+Q102177640,ambassador of Palestine to Portugal
+Q102177640,ambassador to Portugal
+Q102177640,ambassadrice de Palestine au Portugal
+Q102177640,سفير فلسطين لدى البرتغال
 Q104093970,Ambassador of Palestine to Morocco
+Q104093970,ambaixador de Palestina al Marroc
 Q104093970,ambassadeur de Palestine au Maroc
+Q104093970,ambassador to Morocco
+Q104093970,سفير فلسطين لدى المغرب
+Q104208138,ambassador to Kenya
 Q104208138,سفير فلسطين لدى كينيا
-Q104208141,سفير فلسطين لدى تنزانيا
 Q104208141,Ambassador of Palestine to Tanzania
 Q104208141,Anbasador de Pałestina in Tanzània
+Q104208141,ambassador to Tanzania
+Q104208141,سفير فلسطين لدى تنزانيا
+Q104208742,ambassador to Mauritius
 Q104208742,سفير فلسطين لدى موريشوس
-Q104208758,سفير فلسطين لدى سيشل
 Q104208758,Ambassador of Palestine to Seychelles
+Q104208758,ambassador to the Seychelles
+Q104208758,سفير فلسطين لدى سيشل
+Q104208766,ambassador to Uganda
 Q104208766,سفير فلسطين لدى أوغندا
-Q104208778,سفير فلسطين لدى إثيوبيا
 Q104208778,ambassador of Palestine to Ethiopia
+Q104208778,ambassador to Ethiopia
+Q104208778,سفير فلسطين لدى إثيوبيا
+Q104209448,ambassador to Indonesia
 Q104209448,سفير فلسطين لدى إندونيسيا
-Q104214655,سفير فلسطين لدى المكسيك
 Q104214655,ambaixador de Palestina a Mèxic
-Q104218078,سفير فلسطين لدى هولندا
+Q104214655,ambassador to Mexico
+Q104214655,سفير فلسطين لدى المكسيك
 Q104218078,ambassadeur de Palestine au Pays-Bas
-Q104218271,سفير فلسطين لدى تشيلي
+Q104218078,ambassador to the Netherlands
+Q104218078,سفير فلسطين لدى هولندا
 Q104218271,Llysgennad Palesteina i Tsili
+Q104218271,ambassador to Chile
 Q104218271,lyskannas Palestayn dhe Jile
-Q104223325,سفير فلسطين لدى سلطنة عمان
+Q104218271,سفير فلسطين لدى تشيلي
 Q104223325,ambassadeur de Palestine à Oman
+Q104223325,ambassador to Oman
 Q104223325,ambassadrice de Palestine à Oman
+Q104223325,سفير فلسطين لدى سلطنة عمان
+Q104223796,ambassador to the United States
 Q104223796,سفير فلسطين لدى الولايات المتحدة
+Q104760728,ambassador to Benin
 Q104760728,سفير فلسطين لدى بنين
+Q104812774,ambassador to Finland
 Q104812774,سفير فلسطين لدى فنلندا
+Q104812775,ambassador to Lithuania
 Q104812775,سفير فلسطين لدى ليتوانيا
-Q104839968,سفير فلسطين لدى النمسا
 Q104839968,ambaixador de Palestina a Àustria
+Q104839968,ambassador to Austria
+Q104839968,سفير فلسطين لدى النمسا
+Q105412564,ambassador to Namibia
 Q105412564,سفير فلسطين لدى ناميبيا
+Q105454511,ambassador to Japan
 Q105454511,سفير فلسطين لدى اليابان
-Q106430815,سفير فلسطين لدى ماليزيا
-Q106430815,ambassador of Palestine to Malaysia
 Q106430815,ambassadeur de Palestine en Malaisie
+Q106430815,ambassador of Palestine to Malaysia
+Q106430815,ambassador to Malaysia
 Q106430815,ambassadrice de Palestine en Malaisie
-Q106519598,سفير فلسطين لدى سوريا
+Q106430815,سفير فلسطين لدى ماليزيا
 Q106519598,ambaixador de Palestina a Síria
-Q106519598,ambassador of Palestine to Syria
 Q106519598,ambassadeur de Palestine en Syrie
+Q106519598,ambassador of Palestine to Syria
+Q106519598,ambassador to Syria
 Q106519598,ambassadrice de Palestine en Syrie
 Q106519598,שגריר הרשות הפלסטינית בסוריה
+Q106519598,سفير فلسطين لدى سوريا
 Q106519598,在シリアパレスティナ大使
+Q106522363,Minister of Women's Affairs
 Q106522363,وزيرة شؤون المرأة
+Q106653101,ambassador to Mozambique
 Q106653101,سفير فلسطين لدى موزمبيق
-Q106660354,سفير فلسطين لدى البحرين
-Q106660354,Botschafter Palästinas in Bahrain
 Q106660354,Ambassador of Palestine to Bahrain
-Q106660354,Palestinian Ambassador to Bahrain
-Q106660354,ambassador of Palestine  to Bahrain
+Q106660354,Botschafter Palästinas in Bahrain
 Q106660354,Embajador de Palestina en Bahréin
+Q106660354,Palestinian Ambassador to Bahrain
 Q106660354,ambassadeur de Palestine au Bahreïn
 Q106660354,ambassadeur de Palestine à Bahreïn
+Q106660354,ambassador of Palestine  to Bahrain
+Q106660354,ambassador to Bahrain
 Q106660354,ambassadrice de Palestine au Bahreïn
 Q106660354,ambassadrice de Palestine à Bahreïn
 Q106660354,Посол Палестины в Бахрейне
+Q106660354,سفير فلسطين لدى البحرين
 Q106660354,巴勒斯坦驻巴林大使
-Q106660858,سفير فلسطين لدى سلوفاكيا
-Q106660858,ambassador of Palestine to Slovakia
 Q106660858,ambassadeur de Palestine en Slovaquie
+Q106660858,ambassador of Palestine to Slovakia
+Q106660858,ambassador to Slovakia
 Q106660858,ambassadrice de Palestine en Slovaquie
+Q106660858,سفير فلسطين لدى سلوفاكيا
+Q106678791,ambassador to the Philippines
 Q106678791,سفير فلسطين لدى الفلبين
+Q106678888,ambassador to Montenegro
 Q106678888,سفير فلسطين لدى الجبل الأسود
+Q106679636,ambassador to Malawi
 Q106679636,سفير فلسطين لدى مالاوي
-Q106679738,سفير فلسطين لدى ليسوتو
 Q106679738,Palestinian Ambassador to Lesotho
+Q106679738,ambassador to Lesotho
+Q106679738,سفير فلسطين لدى ليسوتو
+Q106680466,ambassador to Botswana
 Q106680466,سفير فلسطين لدى بوتسوانا
-Q106747506,سفير فلسطين لدى سلوفينيا
 Q106747506,ambaixador de Palestina a Eslovènia
+Q106747506,ambassador to Slovenia
+Q106747506,سفير فلسطين لدى سلوفينيا
+Q106777270,ambassador to the Czech Republic
 Q106777270,سفير فلسطين لدى التشيك
-Q106798776,سفير فلسطين لدى الكرسي الرسولي
+Q106798776,Ambassador of the State of Palestine to the Holy See
 Q106798776,Botschafter Palästinas beim Heiligen Stuhl
 Q106798776,"Botschafter Palästinas, Vatikanstadt"
-Q106798776,Ambassador of the State of Palestine to the Holy See
-Q106798776,ambassador of Palestine to the Holy See
 Q106798776,Embajador de Palestina ante la Santa Sede
-Q106798776,ambassadeur de Palestine près le Saint-Siège
 Q106798776,ambasciatore di Palestina presso la Santa Sede
+Q106798776,ambassadeur de Palestine près le Saint-Siège
+Q106798776,ambassador of Palestine to the Holy See
+Q106798776,ambassador to the Holy See
 Q106798776,Посол Палестины в Святом Престоле
+Q106798776,سفير فلسطين لدى الكرسي الرسولي
+Q106862726,ambassador to Thailand
 Q106862726,سفير فلسطين لدى تايلاند
+Q106862734,ambassador to Brunei
 Q106862734,سفير فلسطين لدى بروناي
+Q106862751,ambassador to Sri Lanka
 Q106862751,سفير فلسطين لدى سريلانكا
-Q106937730,مندوب فلسطين الدائم لدى جامعة الدول العربية
+Q106937730,Permanent Representative to the Arab League
 Q106937730,representant permanent de Palestina a la Lliga Àrab
 Q106937730,مندوب فلسطين الدائم لدى جامعة الدول العربية
+Q106941930,ambassador to Ghana
 Q106941930,سفير فلسطين لدى غانا
+Q107001156,ambassador to Argentina
 Q107001156,سفير فلسطين لدى الأرجنتين
-Q107456235,سفير فلسطين لدى أوكرانيا
-Q107456235,Botschafter Palästinas in der Ukraine
 Q107456235,Ambassador of Palestine to Ukraine
-Q107456235,Palestinian Ambassador to Ukraine
-Q107456235,ambassador of Palestine  to Ukraine
+Q107456235,Botschafter Palästinas in der Ukraine
 Q107456235,Embajador de Palestina en Ucrania
+Q107456235,Palestinian Ambassador to Ukraine
 Q107456235,ambassadeur de Palestine en Ukraine
-Q107456235,Посол Палестины в Украине
+Q107456235,ambassador of Palestine  to Ukraine
+Q107456235,ambassador to Ukraine
 Q107456235,Посол Палестин - Україна
+Q107456235,Посол Палестины в Украине
+Q107456235,سفير فلسطين لدى أوكرانيا
 Q107456235,巴勒斯坦驻乌克兰大使
+Q107600545,ambassador to Mali
 Q107600545,سفير فلسطين لدى مالي
+Q107625998,ambassador to Yugoslavia
 Q107625998,سفير فلسطين لدى يوغسلافيا
-Q108552993,سفير فلسطين لدى سويسرا
-Q108552993,ambassador of Palestine to Switzerland
 Q108552993,ambassadeur de Palestine en Suisse
-Q108730496,وزير السياحة والآثار
+Q108552993,ambassador of Palestine to Switzerland
+Q108552993,ambassador to Switzerland
+Q108552993,سفير فلسطين لدى سويسرا
 Q108730496,Minister of Tourism and Antiquities
 Q108730496,Ministro de Turismo e Antighità
-Q111812570,رئيس المجلس الوطني الفلسطيني
+Q108730496,وزير السياحة والآثار
 Q111812570,President of the Palestinian National Council
+Q111812570,رئيس المجلس الوطني الفلسطيني
 Q113470520,Defence Minister of the State of Palestine
-Q113470524,وزير الخارجية والمغتربين الفلسطيني
+Q113470520,Minister of Defence
 Q113470524,Foreign Minister of State of Palestine
-Q113928357,سفير فلسطين لدى كرواتيا
+Q113470524,Minister of Foreign Affairs
+Q113470524,وزير الخارجية والمغتربين الفلسطيني
 Q113928357,ambaixador de Palestina a Croàcia
+Q113928357,ambassador to Croatia
+Q113928357,سفير فلسطين لدى كرواتيا
 Q116311916,ambassador of Palestine to Chad
+Q116311916,ambassador to Chad
 Q116311917,ambassador of Palestine to Burkina Faso
+Q116311917,ambassador to Burkina Faso
 Q116311918,ambassador of Palestine to Niger
+Q116311918,ambassador to Niger
 Q116311920,ambassador of Palestine to Ivory Coast
-Q15041211,رئيس دولة فلسطين
-Q15041211,رئيس وزراء دولة فلسطين
-Q15041211,رئيس وزرا دولة فلسطين
-Q15041211,Primer Ministru de Palestina
-Q15041211,ফিলিস্তিনের প্রধানমন্ত্রী
-Q15041211,Primer Ministre de Palestina
-Q15041211,Předseda vlády Státu Palestina
-Q15041211,Prif Weinidog Gwladwriaeth Palesteina
-Q15041211,Palæstinas premierministre
-Q15041211,Πρωθυπουργός του Κράτους της Παλαιστίνης
-Q15041211,Prime Minister of Palestine
-Q15041211,Prime Minister of the State of Palestine
-Q15041211,Ĉefministro de Palestino
-Q15041211,Primer Ministro de Palestina
+Q116311920,ambassador to Ivory Coast
 Q15041211,Palestinako Estatuko Lehen Ministroa
-Q15041211,premier ministre de l'État de Palestine
-Q15041211,premier ministre de la Palestine
-Q15041211,ראש ממשלת פלסטין
-Q15041211,Perdana Menteri Negara Palestina
-Q15041211,primo ministro dello Stato di Palestina
+Q15041211,Palestinas premiärminister
+Q15041211,Palestinas statsminister
 Q15041211,Palestīnas Valsts premjerministrs
 Q15041211,Palestīnas premjerministrs
+Q15041211,Palæstinas premierministre
+Q15041211,Perdana Menteri Negara Palestina
 Q15041211,Perdana Menteri Negeri Palestin
-Q15041211,Palestinas statsminister
+Q15041211,Prif Weinidog Gwladwriaeth Palesteina
+Q15041211,Prime Minister
+Q15041211,Prime Minister of Palestine
+Q15041211,Prime Minister of the State of Palestine
+Q15041211,Primer Ministre de Palestina
+Q15041211,Primer Ministro de Palestina
+Q15041211,Primer Ministru de Palestina
+Q15041211,Předseda vlády Státu Palestina
+Q15041211,premier ministre de l'État de Palestine
+Q15041211,premier ministre de la Palestine
+Q15041211,primo ministro del Stato de Pałestina
+Q15041211,primo ministro dello Stato di Palestina
+Q15041211,Ĉefministro de Palestino
+Q15041211,Πρωθυπουργός του Κράτους της Παλαιστίνης
 Q15041211,Премьер-министр Государства Палестина
 Q15041211,Список премьер-министров Палестинской национальной администрации и Государства Палестина
 Q15041211,премијер Државе Палестине
-Q15041211,Palestinas premiärminister
+Q15041211,ראש ממשלת פלסטין
+Q15041211,رئيس دولة فلسطين
+Q15041211,رئيس وزرا دولة فلسطين
+Q15041211,رئيس وزراء دولة فلسطين
 Q15041211,وزیر اعظم دولت فلسطین
-Q15041211,primo ministro del Stato de Pałestina
-Q2336111,رئيس السلطة الفلسطينية
-Q2336111,رئيس السلطة الوطنية الفلسطينية
-Q2336111,رئيس السلطه الوطنيه الفلسطينيه
-Q2336111,Presidente de l'Autoridá Nacional Palestina
-Q2336111,старшыня Палесцінскай нацыянальнай адміністрацыі
-Q2336111,прэзыдэнт Палестынскай нацыянальнай адміністрацыі
-Q2336111,President de l'Autoritat Nacional Palestina
+Q15041211,ফিলিস্তিনের প্রধানমন্ত্রী
 Q2336111,Arlywydd Awdurdod Cenedlaethol Palesteina
-Q2336111,Präsident der Palästinensischen Autonomiebehörde
-Q2336111,President of the Palestinian National Authority
-Q2336111,Prezidanto de Ŝtato Palestino
-Q2336111,Presidente de la Autoridad Nacional Palestina
-Q2336111,Palestinar Aginte Nazionaleko presidente
-Q2336111,رئیسجمهور دولت خودگردان فلسطین
-Q2336111,president de l'Autorite palestinienne
-Q2336111,président de l'Autorité palestinienne
-Q2336111,président de l'État de Palestine
-Q2336111,président palestinien
-Q2336111,Uachtarán Údarás Náisiúnta na Palaistíne
-Q2336111,"יו""ר הרשות הפלסטינית"
-Q2336111,יושב ראש הרשות הפלסטינית
-Q2336111,נשיא הרשות הפלסטינית
-Q2336111,ראש הרשות הפלסטינית
-Q2336111,Պաղեստինի ազգային իշխանության նախագահ
+Q2336111,Chủ tịch Chính quyền Quốc gia Palestine
 Q2336111,Daftar Presiden Otoritas Nasional Palestina
 Q2336111,Daftar Presiden Palestina
-Q2336111,Presiden Otoritas Nasional Palestina
-Q2336111,Presiden Otoritas Palestina
-Q2336111,Presiden Palestina
 Q2336111,Forseti Palestínu
 Q2336111,Forseti palestínsku heimastjórnarinnar
-Q2336111,Presidente dell'Autorità Nazionale Palestinese
-Q2336111,パレスチナの統治機構における大統領
 Q2336111,Leder av den palestinske selvstyremyndigheten
 Q2336111,PNA leder
 Q2336111,PNA president
@@ -350,249 +437,303 @@ Q2336111,PNA-sjef
 Q2336111,PNAs leder
 Q2336111,PNAs president
 Q2336111,PNAs sjef
+Q2336111,Palestinar Aginte Nazionaleko presidente
+Q2336111,Presiden Otoritas Nasional Palestina
+Q2336111,Presiden Otoritas Palestina
+Q2336111,Presiden Palestina
+Q2336111,President de l'Autoritat Nacional Palestina
 Q2336111,President i den palestinske selvstyremyndigheten
-Q2336111,lijst van presidenten van de Palestijnse Autoriteit
+Q2336111,President of the Palestinian National Authority
 Q2336111,Presidente da Autoridade Nacional Palestina
 Q2336111,Presidente da Palestina
+Q2336111,Presidente de l'Autoridá Nacional Palestina
+Q2336111,Presidente de l'Autorità Nasionałe Pałestineza
+Q2336111,Presidente de la Autoridad Nacional Palestina
+Q2336111,Presidente dell'Autorità Nazionale Palestinese
+Q2336111,Prezidanto de Ŝtato Palestino
 Q2336111,Președintele Autorității Naționale Palestiniene
+Q2336111,Präsident der Palästinensischen Autonomiebehörde
+Q2336111,Uachtarán Údarás Náisiúnta na Palaistíne
+Q2336111,lijst van presidenten van de Palestijnse Autoriteit
+Q2336111,president de l'Autorite palestinienne
+Q2336111,président de l'Autorité palestinienne
+Q2336111,président de l'État de Palestine
+Q2336111,président palestinien
 Q2336111,Президент Палестинской национальной администрации
 Q2336111,председатель Палестинской национальной администрации
 Q2336111,председник Палестинске Националне управе
+Q2336111,прэзыдэнт Палестынскай нацыянальнай адміністрацыі
+Q2336111,старшыня Палесцінскай нацыянальнай адміністрацыі
+Q2336111,Պաղեստինի ազգային իշխանության նախագահ
+Q2336111,"יו""ר הרשות הפלסטינית"
+Q2336111,יושב ראש הרשות הפלסטינית
+Q2336111,נשיא הרשות הפלסטינית
+Q2336111,ראש הרשות הפלסטינית
+Q2336111,رئيس السلطة الفلسطينية
+Q2336111,رئيس السلطة الوطنية الفلسطينية
+Q2336111,رئيس السلطه الوطنيه الفلسطينيه
+Q2336111,رئیسجمهور دولت خودگردان فلسطین
 Q2336111,صدر فلسطینی قومی اتھارٹی
-Q2336111,Presidente de l'Autorità Nasionałe Pałestineza
-Q2336111,Chủ tịch Chính quyền Quốc gia Palestine
+Q2336111,パレスチナの統治機構における大統領
 Q2336111,巴勒斯坦国民族权力机构主席
 Q2336111,巴勒斯坦民族权力机构主席
-Q2336111,巴勒斯坦民族权力机构主席
 Q2336111,巴勒斯坦民族權力機構主席
-Q2336111,巴勒斯坦民族權力機構主席
-Q2344709,رؤساء وزارات السلطه الوطنيه الفلسطينيه
-Q2344709,رئاسة مجلس الوزراء الفلسطيني
-Q2344709,رئيس مجلس الوزراء في السلطة الوطنية الفلسطينية
-Q2344709,رئيس وزراء السلطة الوطنية الفلسطينية
-Q2344709,Primer Ministru de l'Autoridá Nacional Palestina
-Q2344709,прэм’ер-міністар Палестынскай нацыянальнай адміністрацыі
-Q2344709,ফিলিস্তিন জাতীয় প্রশাসনের প্রধানমন্ত্রী
-Q2344709,primer ministre de l'Autoritat Nacional Palestina
-Q2344709,Πρωθυπουργός της Παλαιστινιακής Εθνικής Αρχής
-Q2344709,Prime Minister of the Palestinian National Authority
-Q2344709,Primer Ministro de la Autoridad Nacional Palestina
-Q2344709,Premier ministre palestinien
-Q2344709,Premiers ministres de l'Autorite palestinienne
-Q2344709,Premiers ministres de l’autorité palestinienne
-Q2344709,premier ministre de l'Autorité palestinienne
-Q2344709,ראש ממשלת הרשות הפלסטינאית
-Q2344709,ראש ממשלת הרשות הפלסטינית
-Q2344709,ראש ממשלת פלסטין
 Q2344709,Daftar Perdana Menteri Otoritas Nasional Palestina
+Q2344709,Lijst van premiers van de Palestijnse Autoriteit
 Q2344709,Perdana Menteri Otoritas Nasional Palestina
 Q2344709,Perdana Menteri Otoritas Palestina
 Q2344709,Perdana Menteri Palestina
-Q2344709,Primo ministro dell'Autorità Nazionale Palestinese
-Q2344709,パレスチナの首相
 Q2344709,Perdana Menteri Pihak Berkuasa Palestin
-Q2344709,Lijst van premiers van de Palestijnse Autoriteit
-Q2344709,premier van de Palestijnse Autoriteit
+Q2344709,Premier ministre palestinien
+Q2344709,Premiers ministres de l'Autorite palestinienne
+Q2344709,Premiers ministres de l’autorité palestinienne
 Q2344709,Premierzy Autonomii Palestyńskiej
+Q2344709,Prime Minister of the Palestinian National Authority
+Q2344709,Primer Ministro de la Autoridad Nacional Palestina
+Q2344709,Primer Ministru de l'Autoridá Nacional Palestina
+Q2344709,Primo ministro de l'Autorità Nasionałe Pałestineza
+Q2344709,Primo ministro dell'Autorità Nazionale Palestinese
+Q2344709,premier ministre de l'Autorité palestinienne
+Q2344709,premier van de Palestijnse Autoriteit
 Q2344709,prim ministru al Autorității Naționale Palestiniene
+Q2344709,primer ministre de l'Autoritat Nacional Palestina
+Q2344709,Πρωθυπουργός της Παλαιστινιακής Εθνικής Αρχής
 Q2344709,Премьер-министр Палестинской национальной администрации
 Q2344709,Список премьер-министров Палестинской автономии
 Q2344709,Список премьер-министров Палестинской национальной администрации
 Q2344709,премијер Палестинске националне управе
+Q2344709,прэм’ер-міністар Палестынскай нацыянальнай адміністрацыі
+Q2344709,ראש ממשלת הרשות הפלסטינאית
+Q2344709,ראש ממשלת הרשות הפלסטינית
+Q2344709,ראש ממשלת פלסטין
+Q2344709,رؤساء وزارات السلطه الوطنيه الفلسطينيه
+Q2344709,رئاسة مجلس الوزراء الفلسطيني
+Q2344709,رئيس مجلس الوزراء في السلطة الوطنية الفلسطينية
+Q2344709,رئيس وزراء السلطة الوطنية الفلسطينية
 Q2344709,وزیر اعظم فلسطین
-Q2344709,Primo ministro de l'Autorità Nasionałe Pałestineza
+Q2344709,ফিলিস্তিন জাতীয় প্রশাসনের প্রধানমন্ত্রী
+Q2344709,パレスチナの首相
 Q2344709,巴勒斯坦国民族权力机构总理
 Q2344709,巴勒斯坦总理
 Q2344709,巴勒斯坦民族权力机构总理
-Q2344709,巴勒斯坦民族权力机构总理
 Q2344709,巴勒斯坦民族權力機構總理
-Q2344709,巴勒斯坦民族權力機構總理
-Q30303260,سفير فلسطين لدى الصين
-Q30303260,Palestinian Ambassador to China
-Q30303260,ambassador of Palestine to Chine
 Q30303260,Embajadores de Territorios Palestinos en China
-Q30303260,ambassadeur de Palestine en Chine
-Q30303260,ambassadrice de Palestine en Chine
+Q30303260,Palestinian Ambassador to China
 Q30303260,ambasador al Palestinei în China
+Q30303260,ambassadeur de Palestine en Chine
+Q30303260,ambassador of Palestine to Chine
+Q30303260,ambassador to the People's Republic of China
+Q30303260,ambassadrice de Palestine en Chine
+Q30303260,سفير فلسطين لدى الصين
 Q30303260,巴勒斯坦驻中国大使
-Q30303260,巴勒斯坦驻中国大使
-Q30621639,قائمة سفراء دولة فلسطين لدى تشيلي
 Q30621639,Palestinian Ambassador to Chile
-Q30621639,embajador de Palestina en Chile
-Q30621639,ambassadeur de Palestine au Chili
-Q30621639,ambassadrice de Palestine au Chili
 Q30621639,ambasador al Palestinei în Chile
+Q30621639,ambassadeur de Palestine au Chili
+Q30621639,ambassador to Chile
+Q30621639,ambassadrice de Palestine au Chili
+Q30621639,embajador de Palestina en Chile
 Q30621639,посол Государства Палестина в Чили
-Q37202196,وزير الشباب والرياضة
-Q37202196,ministre de Joventut i Esports
+Q30621639,قائمة سفراء دولة فلسطين لدى تشيلي
 Q37202196,Minister of Youth and Sports
-Q37202196,שר הנוער והספורט
 Q37202196,Ministro de ła Zoventù e del spor
-Q3911022,رئيس دولة فلسطين
-Q3911022,رئيس دولة فلسطين
-Q3911022,Presidente de Palestina
-Q3911022,прэзідэнт Дзяржавы Палесціна
-Q3911022,прэзыдэнт Дзяржавы Палестыны
-Q3911022,ফিলিস্তিনের রাষ্ট্রপতি
-Q3911022,president de l'Estat de Palestina
+Q37202196,ministre de Joventut i Esports
+Q37202196,שר הנוער והספורט
+Q37202196,وزير الشباب والرياضة
 Q3911022,Arlywydd Gwladwriaeth Palesteina
-Q3911022,Πρόεδρος του Κράτους της Παλαιστίνης
-Q3911022,President of the State of Palestine
-Q3911022,President of the State of Palestine
-Q3911022,President of the State of Palestine
-Q3911022,Prezidanto de Palestino
-Q3911022,Presidente de Palestina
+Q3911022,Filistin devlet başkanı
 Q3911022,Palestinako Estatuko Presidentea
-Q3911022,président de l'État de Palestine
-Q3911022,président de la Palestine
+Q3911022,Palestinas president
 Q3911022,Presiden Negara Palestina
-Q3911022,Presidente dello Stato di Palestina
-Q3911022,presidente della Palestina
-Q3911022,パレスチナの大統領
-Q3911022,팔레스티나국가 대통령
 Q3911022,Presiden Palestin
+Q3911022,President
+Q3911022,President of the State of Palestine
+Q3911022,Presidente de Palestina
+Q3911022,Presidente de ła Pałestina
+Q3911022,Presidente dello Stato di Palestina
+Q3911022,Prezidanto de Palestino
+Q3911022,Președintele Statului Palestina
+Q3911022,Tổng thống Nhà nước Palestine
+Q3911022,president de l'Estat de Palestina
+Q3911022,presidente della Palestina
 Q3911022,prezydent Autonomii Palestyńskiej
 Q3911022,prezydent Palestyny
-Q3911022,Președintele Statului Palestina
-Q3911022,президент Государства Палестина
+Q3911022,président de l'État de Palestine
+Q3911022,président de la Palestine
+Q3911022,Πρόεδρος του Κράτους της Παλαιστίνης
 Q3911022,председник Државе Палестине
-Q3911022,Palestinas president
-Q3911022,Filistin devlet başkanı
+Q3911022,президент Государства Палестина
 Q3911022,президент Держави Палестина
+Q3911022,прэзыдэнт Дзяржавы Палестыны
+Q3911022,прэзідэнт Дзяржавы Палесціна
+Q3911022,رئيس دولة فلسطين
 Q3911022,صدر فلسطین
-Q3911022,Presidente de ła Pałestina
-Q3911022,Tổng thống Nhà nước Palestine
+Q3911022,ফিলিস্তিনের রাষ্ট্রপতি
+Q3911022,パレスチナの大統領
 Q3911022,巴勒斯坦总统
-Q40338377,المفوض الفلسطيني العام في كندا
+Q3911022,팔레스티나국가 대통령
 Q40338377,General Commissioner of Palestine to Canada
+Q40338377,ambasador al Palestinei în Canada
 Q40338377,ambassadeur de Palestine au Canada
+Q40338377,ambassador to Canada
+Q40338377,посол Государства Палестина в Канаде
 Q40338377,שגריר מדינה פלסטינית בקנדה
 Q40338377,שגרירת מדינה פלסטינית בקנדה
-Q40338377,ambasador al Palestinei în Canada
-Q40338377,посол Государства Палестина в Канаде
-Q4119581,رئيس المجلس التشريعي الفلسطيني
-Q4119581,president del Consell Legislatiu Palestí
-Q4119581,Speaker of the Palestinian Legislative Council
-Q4119581,président du Conseil législatif palestinien
-Q4119581,דובר המועצה המחוקקת הפלסטינית
+Q40338377,المفوض الفلسطيني العام في كندا
 Q4119581,Ketua Dewan Legislatif Palestina
-Q4119581,パレスチナ議会議長
-Q4119581,立法評議会議長
-Q4119581,Voorzitter van de Palestijnse Wetgevende Raad
+Q4119581,Presidente del Consejo lejislativo pałestineze
 Q4119581,Przewodniczący Parlamentu Autonomii Palestyńskiej
 Q4119581,Przewodniczący Rady Legislacyjnej Autonomii Palestyńskiej
+Q4119581,Speaker of the Palestinian Legislative Council
+Q4119581,Voorzitter van de Palestijnse Wetgevende Raad
+Q4119581,president del Consell Legislatiu Palestí
+Q4119581,président du Conseil législatif palestinien
 Q4119581,председатель Палестинского законодательного совета
-Q4119581,Presidente del Consejo lejislativo pałestineze
+Q4119581,דובר המועצה המחוקקת הפלסטינית
+Q4119581,رئيس المجلس التشريعي الفلسطيني
+Q4119581,パレスチナ議会議長
 Q4119581,巴勒斯坦立法委员会主席列表
-Q5340906,وزارة التربية والتعليم الفلسطينية
+Q4119581,立法評議会議長
 Q5340906,Education Minister of the Palestinian National Authority
-Q57329599,سفير فلسطين لدى إسبانيا
+Q5340906,Minister of Education
+Q5340906,وزارة التربية والتعليم الفلسطينية
 Q57329599,ambaixador de Palestina a Espanya
-Q57329599,ambassador of Palestine to Spain
-Q57329599,embajador de Palestina en España
-Q57329599,ambassadeur de Palestine en Espagne
 Q57329599,ambasador al Palestinei în Spania
-Q6030745,Informationsminister der Palästinensischen Autonomiebehörde
+Q57329599,ambassadeur de Palestine en Espagne
+Q57329599,ambassador of Palestine to Spain
+Q57329599,ambassador to Spain
+Q57329599,embajador de Palestina en España
+Q57329599,سفير فلسطين لدى إسبانيا
 Q6030745,Information Minister of the Palestinian National Authority
-Q6030745,Ministério da Informação (Estado da Palestina)
+Q6030745,Informationsminister der Palästinensischen Autonomiebehörde
+Q6030745,Minister of Information
 Q6030745,Ministro de l'Informasion de l'Autorità Nasionałe Pałestineze
-Q64912939,وزير الحكم المحلي
-Q64912939,ministre de Govern Local
+Q6030745,Ministério da Informação (Estado da Palestina)
 Q64912939,Minister of Local Government
 Q64912939,Minister of Local Government of Palestine
 Q64912939,Ministre du Gouvernement Local
 Q64912939,Ministre du Gouvernement Local de Palestine
 Q64912939,Ministro dei Enti Locałi
-Q70359193,وزير الأشغال العامة والإسكان
-Q70359193,Ministre d’Obres Públiques i Habitatge de Palestina
+Q64912939,ministre de Govern Local
+Q64912939,وزير الحكم المحلي
 Q70359193,Minister of Public Works and Housing
+Q70359193,Ministre d’Obres Públiques i Habitatge de Palestina
 Q70359193,Ministro de Obras Públicas y Vivienda de Palestina
 Q70359193,Ministro dei Lavori Pùbleghi e de l'Ediłìsia Abitativa
+Q70359193,وزير الأشغال العامة والإسكان
+Q80205571,Goernador del Goernatorato de Tulkarm
+Q80205571,Governor of Tulkarm
+Q80205571,Governor of Tulkarm Governorate
 Q80205571,حاكم طولكرم
 Q80205571,محافظ طولكرم
 Q80205571,محافظ محافظة طولكرم
-Q80205571,Governor of Tulkarm Governorate
-Q80205571,Goernador del Goernatorato de Tulkarm
-Q80205574,محافظ محافظة سلفيت
+Q80205574,Goernador del Goernatorato de Salfit
+Q80205574,Governor of Salfit
 Q80205574,Governor of Salfit Governorate
 Q80205574,gobharnóir Salfit Governorate
-Q80205574,Goernador del Goernatorato de Salfit
-Q80205953,محافظ محافظة قلقيلية
-Q80205953,Governor of Qalqilya Governorate
+Q80205574,محافظ محافظة سلفيت
 Q80205953,Goernador del Goernatorato de Qalqilya
-Q80435579,محافظ محافظة طوباس
-Q80435579,Governor of Tubas Governorate
+Q80205953,Governor of Qalqilya
+Q80205953,Governor of Qalqilya Governorate
+Q80205953,محافظ محافظة قلقيلية
 Q80435579,Goernador del Goernatorà de Tubas
-Q80822035,عضو المجلس الوطني الفلسطيني
+Q80435579,Governor of Tubas
+Q80435579,Governor of Tubas Governorate
+Q80435579,محافظ محافظة طوباس
+Q80822035,Member of the National Council
 Q80822035,Member of the Palestine National Council
-Q80822035,membre du Conseil national palestinien
 Q80822035,Menbro del Consejo Nasionałe Pałestineze
+Q80822035,membre du Conseil national palestinien
+Q80822035,عضو المجلس الوطني الفلسطيني
+Q87277396,Procurator zenerałe (Pałestina)
+Q87277396,Prosecutor General
+Q87277396,Prosecutor General (Palestine)
 Q87277396,النائب العام الفلسطيني
 Q87277396,نائب عام دولة فلسطين
-Q87277396,Prosecutor General (Palestine)
-Q87277396,Procurator zenerałe (Pałestina)
+Q87278953,Chair of the Anti-Corruption Commission
 Q87278953,رئيس هيئة مكافحة الفساد الفلسطينية
-Q87401933,وزير الأوقاف والشؤون الدينية
+Q87401933,Minister of Endowments and Religious Affairs
 Q87401933,Ministre de Dotacions i Afers Religiosos
-Q87743333,وزير التنمية الاجتماعية
+Q87401933,وزير الأوقاف والشؤون الدينية
+Q87743333,Minister of Social Development
 Q87743333,ministre du développement social
 Q87743333,השר לפיתוח חברתי
-Q89188775,محافظ محافظة رفح
-Q89188775,Governor of Rafah Governorate
+Q87743333,وزير التنمية الاجتماعية
 Q89188775,Goernador de Rafah
-Q89188926,محافظ محافظة دير البلح
-Q89188926,Governor of Deir al-Balah Governorate
+Q89188775,Governor of Rafah
+Q89188775,Governor of Rafah Governorate
+Q89188775,محافظ محافظة رفح
 Q89188926,Goernador de Deir al-Balah
-Q89834132,محافظ محافظة رام الله والبيرة
-Q89834132,Governor of Ramallah and al-Bireh Governorate
+Q89188926,Governor of Deir al-Balah
+Q89188926,Governor of Deir al-Balah Governorate
+Q89188926,محافظ محافظة دير البلح
 Q89834132,Goernador del Goernatorà de Ramallah e al-Bireh
-Q91013706,محافظ محافظة نابلس
-Q91013706,governador de Nablus
-Q91013706,Governor of Nablus Governorate
-Q91013706,מושל נפת שכם
+Q89834132,Governor of Ramallah and al-Bireh
+Q89834132,Governor of Ramallah and al-Bireh Governorate
+Q89834132,محافظ محافظة رام الله والبيرة
 Q91013706,Goernador del Goernatorato de Nablus
-Q91668102,سفير فلسطين لدى ليبيا
-Q91668102,ambassador of Palestine to Libya
+Q91013706,Governor of Nablus
+Q91013706,Governor of Nablus Governorate
+Q91013706,governador de Nablus
+Q91013706,מושל נפת שכם
+Q91013706,محافظ محافظة نابلس
 Q91668102,ambassadeur de Palestine en Libye
-Q96406592,عضو المجلس التشريعي الفلسطيني
-Q96406592,membre del Consell Legislatiu Palestí
+Q91668102,ambassador of Libya
+Q91668102,ambassador of Palestine to Libya
+Q91668102,سفير فلسطين لدى ليبيا
 Q96406592,Member of the Legislative Council
 Q96406592,Palestinian Legislative Council member
 Q96406592,member of the Palestinian Legislative Council
-Q96406592,miembro del consejo legislativo palestino
+Q96406592,membre del Consell Legislatiu Palestí
 Q96406592,membre du Conseil législatif palestinien
+Q96406592,miembro del consejo legislativo palestino
+Q96406592,عضو المجلس التشريعي الفلسطيني
+Q96481388,Head of the Military Intelligence Service
 Q96481388,رئيس جهاز الاستخبارات العسكرية الفلسطينية
-Q96677747,محافظ محافظة جنين
+Q96677747,Governor of Genin
 Q96677747,governador de Jenin
-Q96758260,سفير فلسطين لدى فنزويلا
-Q96758260,ambassador of Palestine to Venezuela
-Q96758260,embajador de Palestina en Venezuela
+Q96677747,محافظ محافظة جنين
 Q96758260,ambassadeur de Palestine au Venezuela
-Q96758262,سفير فلسطين لدى غيانا
+Q96758260,ambassador of Palestine to Venezuela
+Q96758260,ambassador to Venezuela
+Q96758260,embajador de Palestina en Venezuela
+Q96758260,سفير فلسطين لدى فنزويلا
 Q96758262,ambassador of Palestine to Guyana
-Q96770960,سفير فلسطين لدى رومانيا
-Q96770960,ambassador of Palestine to Romania
-Q96770960,ambassadeur de Palestine en Roumanie
-Q96770960,שגריר פלסטין ברומניה
+Q96758262,ambassador to Guyana
+Q96758262,سفير فلسطين لدى غيانا
 Q96770960,Anbasador de Pałestina in Romania
+Q96770960,ambassadeur de Palestine en Roumanie
+Q96770960,ambassador of Palestine to Romania
+Q96770960,ambassador to Romania
+Q96770960,שגריר פלסטין ברומניה
+Q96770960,سفير فلسطين لدى رومانيا
+Q96771094,ambassador to India
 Q96771094,سفير فلسطين لدى الهند
-Q97328236,محافظ محافظة بيت لحم
+Q97328236,Governor of Bethlehem
 Q97328236,governador de Betlem
-Q97328243,محافظ محافظة الخليل
+Q97328236,محافظ محافظة بيت لحم
+Q97328243,Governor of Hebron
 Q97328243,governador d'Hebron
+Q97328243,محافظ محافظة الخليل
+Q97771761,Governor of Jericho
 Q97771761,محافظ محافظة أريحا
-Q98918800,محافظ محافظة غزة
+Q98918800,Goernador del Goernatorato de Gaza
+Q98918800,Governor of Gaza
 Q98918800,Governor of Gaza Governorate
 Q98918800,Gubernator Muhafazy Gazy
-Q98918800,Goernador del Goernatorato de Gaza
-Q98923074,سفير فلسطين لدى الأردن
+Q98918800,محافظ محافظة غزة
 Q98923074,Ambassador of Palestine to Jordan
 Q98923074,ambassadeur de Palestine en Jordanie
-Q99894834,وزير شؤون القدس
+Q98923074,ambassador to Jordan
+Q98923074,سفير فلسطين لدى الأردن
+Q99894834,Minister of Jerusalem Affairs
 Q99894834,ministre des Affaires de Jérusalem
-Q99896049,محافظ محافظة خان يونس
+Q99894834,وزير شؤون القدس
+Q99896049,Governor of Khan Yunis
 Q99896049,governador de Khan Yunis
-Q99947721,محافظ محافظة شمال غزة
+Q99896049,محافظ محافظة خان يونس
+Q99947721,Governor of North Gaza
 Q99947721,governador de Gaza Nord
-Q99980516,مدير الأمن الوقائي الفلسطيني
+Q99947721,محافظ محافظة شمال غزة
+Q99980516,Director of Palestinian Preventive Security
 Q99980516,director de Seguretat Preventiva de Palestina
+Q99980516,مدير الأمن الوقائي الفلسطيني
