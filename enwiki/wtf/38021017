@@ -9,7 +9,8 @@
     "Palestinian Roman Catholics",
     "Women mayors of places in Palestina",
     "Academic staff of Bethlehem University",
-    "People from Bethlehem"
+    "People from Bethlehem",
+    "Ambassadors of the State of Palestine to Chile"
   ],
   "sections": [
     {
@@ -119,6 +120,12 @@
               }
             ]
           },
+          "office2": {
+            "text": "Palestinian Ambassador to Chile"
+          },
+          "predecessor2": {
+            "text": "Imad Al Jada"
+          },
           "party": {
             "text": "Independent",
             "links": [
@@ -131,6 +138,15 @@
           },
           "birth_date": {
             "text": "October 6, 1964"
+          },
+          "birth_place": {
+            "text": "Bethlehem",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bethlehem"
+              }
+            ]
           },
           "spouse": {
             "text": "Hanna (Johnny) Baboun (passed away April 25, 2007)"
@@ -153,6 +169,13 @@
           },
           "term_end": {
             "text": "27 May 2017"
+          },
+          "term_start2": {
+            "text": "2022",
+            "number": 2022
+          },
+          "term_end2": {
+            "text": "now"
           }
         }
       ],
@@ -356,6 +379,29 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Palestinian Ambassador to Chile",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On December 8, 2022: she being appointed as the Ambassador of the State of Palestine to Chile."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "تاريخ الوصول": "December 9, 2022",
+          "صحيفة": "وكالة وفا",
+          "عنوان": "فيرا بابون تؤدي اليمين القانونية أمام الرئيس سفيرة لفلسطين لدى تشيلي",
+          "مسار": "https://wafa.ps/Pages/Details/60744",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
