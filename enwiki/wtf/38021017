@@ -396,10 +396,11 @@
       ],
       "references": [
         {
-          "تاريخ الوصول": "December 9, 2022",
-          "صحيفة": "وكالة وفا",
-          "عنوان": "فيرا بابون تؤدي اليمين القانونية أمام الرئيس سفيرة لفلسطين لدى تشيلي",
-          "مسار": "https://wafa.ps/Pages/Details/60744",
+          "date": "8 December 2022",
+          "title": "فيرا بابون تؤدي اليمين القانونية أمام الرئيس سفيرة لفلسطين لدى تشيلي",
+          "language": "ar",
+          "trans-title": "Vera Baboun is sworn in before the President as Palestine's Ambassador to Chile",
+          "url": "https://wafa.ps/Pages/Details/60744",
           "template": "citation",
           "type": "web"
         }
@@ -478,7 +479,7 @@
         },
         {
           "url": "http://archive.thisweekinpalestine.com/details.php?id=3552&ed=200&edid=200",
-          "title": "Archived copy",
+          "title": "Edward Said: A Mentor Who Mastered Speaking Truth to Power",
           "access-date": "2017-07-02",
           "archive-date": "2018-09-04",
           "archive-url": "https://web.archive.org/web/20180904154200/http://archive.thisweekinpalestine.com/details.php?id=3552&ed=200&edid=200",
@@ -680,8 +681,7 @@
         },
         {
           "url": "https://www.pressreader.com/italy/il-gazzettino-belluno/20160515/282342564063962",
-          "title": "PressReader.com - Connecting People Through News",
-          "website": "www.pressreader.com",
+          "via": "PressReader",
           "access-date": "2017-07-02",
           "template": "citation",
           "type": "web"
