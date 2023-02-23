@@ -3113,6 +3113,9 @@
                   "page": "Volksverhetzung"
                 }
               ]
+            },
+            {
+              "text": "The investigation was closed because Abbas enjoys diplomatic immunity."
             }
           ]
         }
@@ -3336,6 +3339,15 @@
           "type": "web"
         },
         {
+          "url": "https://www.timesofisrael.com/germany-closes-incitement-probe-into-abbass-50-holocausts-remark/",
+          "title": "Germany closes incitement probe into Abbas’s ’50 holocausts’ remark",
+          "first": "Jacob",
+          "last": "Magid",
+          "website": "www.timesofisrael.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "http://www.kommersant.ru/doc.aspx?DocsID=538949",
           "title": "Аббас на глиняных ногах",
           "trans-title": "Abbas has feet of clay",
@@ -3390,6 +3402,28 @@
           "template": "citation",
           "type": "web"
         }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "List of international presidential trips made by Mahmoud Abbas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of international presidential trips made by Mahmoud Abbas"
+              }
+            ]
+          }
+        ]
       ]
     },
     {
