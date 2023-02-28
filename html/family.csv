@@ -1,6 +1,6 @@
 id,name,relationship,relative,relativename
 Q100704897,Hazem Abu Shanab,father,Q100704996,Husayn Abu Shanab
-Q100742679,رؤوف المالكي,sibling,Q2895694,Riyad al-Maliki
+Q100742679,Raouf al-Maliki,sibling,Q2895694,Riyad al-Maliki
 Q100997808,Ibrahim Al-Zabin,sibling,Q100997809,فادي الزبن
 Q100997809,فادي الزبن,sibling,Q100997808,Ibrahim Al-Zabin
 Q101000941,Jamila Saidam,child,Q25454018,صبري صيدم
@@ -29,7 +29,7 @@ Q1963057,Leila Shahid,mother,Q3485269,Serene Husseini Shahid
 Q19976820,Hala Fariz,spouse,Q47526457,Musa Amer Odeh
 Q2213790,Salah Abdel Shafi,father,Q2587345,Haidar Abdel-Shafi
 Q25424401,Salah Zawawi,child,Q114455283,سلام الزواوي
-Q2895694,Riyad al-Maliki,sibling,Q100742679,رؤوف المالكي
+Q2895694,Riyad al-Maliki,sibling,Q100742679,Raouf al-Maliki
 Q34211,Yasser Arafat,relative,Q3280817,Nasser Al-Qasabi
 Q34211,Yasser Arafat,sibling,Q56560600,Khadija Arafat
 Q34211,Yasser Arafat,sibling,Q981221,Fathi Arafat
