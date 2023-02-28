@@ -90,7 +90,34 @@
             "text": "Vera George Ghattas Baboun"
           },
           "office": {
-            "text": "Mayor of Bethlehem\nAmbassador of the State of Palestine to Chile",
+            "text": "Palestinian Ambassador to Chile",
+            "links": [
+              {
+                "text": "Palestinian Ambassador to Chile",
+                "type": "internal",
+                "page": "List of ambassadors of the State of Palestine to Chile"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Imad Al Jada",
+            "links": [
+              {
+                "text": "Imad Al Jada",
+                "type": "internal",
+                "page": ":ar:عماد الجدع"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2022",
+            "number": 2022
+          },
+          "term_end": {
+            "text": "now"
+          },
+          "office2": {
+            "text": "Mayor of Bethlehem",
             "links": [
               {
                 "text": "Mayor of Bethlehem",
@@ -102,7 +129,7 @@
           "image": {
             "text": "File:Vera Baboun portrait.jpg"
           },
-          "predecessor": {
+          "predecessor2": {
             "text": "Victor Batarseh",
             "links": [
               {
@@ -111,7 +138,7 @@
               }
             ]
           },
-          "successor": {
+          "successor2": {
             "text": "Anton Salman",
             "links": [
               {
@@ -120,11 +147,11 @@
               }
             ]
           },
-          "office2": {
-            "text": "Palestinian Ambassador to Chile"
+          "term_start2": {
+            "text": "October 2012"
           },
-          "predecessor2": {
-            "text": "Imad Al Jada"
+          "term_end2": {
+            "text": "27 May 2017"
           },
           "party": {
             "text": "Independent",
@@ -163,19 +190,6 @@
                 "page": "Bethlehem University"
               }
             ]
-          },
-          "term_start": {
-            "text": "October 2012"
-          },
-          "term_end": {
-            "text": "27 May 2017"
-          },
-          "term_start2": {
-            "text": "2022",
-            "number": 2022
-          },
-          "term_end2": {
-            "text": "now"
           }
         }
       ],
