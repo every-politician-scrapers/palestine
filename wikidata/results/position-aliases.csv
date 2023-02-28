@@ -30,6 +30,7 @@ Q100255679,ambassador to South Africa
 Q100255679,ambassadrice de Palestine en Afrique du Sud
 Q100255679,سفير فلسطين لدى جنوب أفريقيا
 Q100268457,Llysgennad Palesteina i'r Eidal
+Q100268457,Palestine ambassador to  Italy
 Q100268457,ambassadeur de Palestine en Italie
 Q100268457,ambassador to Italy
 Q100268457,ambassadrice de Palestine en Italie
@@ -75,6 +76,8 @@ Q100997842,ambassador to Ecuador
 Q100997842,سفير فلسطين لدى الإكوادور
 Q100997844,ambassador to Uruguay
 Q100997844,سفير فلسطين لدى الأوروغواي
+Q100997845,Embajador palestino a Perú
+Q100997845,Palestinian Ambassador to Peru
 Q100997845,ambassador to Peru
 Q100997845,سفير فلسطين لدى بيرو
 Q100997852,ambaixador de Palestina a Cuba
@@ -254,10 +257,7 @@ Q104214655,سفير فلسطين لدى المكسيك
 Q104218078,ambassadeur de Palestine au Pays-Bas
 Q104218078,ambassador to the Netherlands
 Q104218078,سفير فلسطين لدى هولندا
-Q104218271,Llysgennad Palesteina i Tsili
 Q104218271,ambassador to Chile
-Q104218271,lyskannas Palestayn dhe Jile
-Q104218271,سفير فلسطين لدى تشيلي
 Q104223325,ambassadeur de Palestine à Oman
 Q104223325,ambassador to Oman
 Q104223325,ambassadrice de Palestine à Oman
@@ -391,6 +391,9 @@ Q116311918,ambassador of Palestine to Niger
 Q116311918,ambassador to Niger
 Q116311920,ambassador of Palestine to Ivory Coast
 Q116311920,ambassador to Ivory Coast
+Q116922055,ambassador of Palestine to Djibouti
+Q116922055,ambassador to Djibouti
+Q116922055,سفير فلسطين لدى جيبوتي
 Q15041211,Palestinako Estatuko Lehen Ministroa
 Q15041211,Palestinas premiärminister
 Q15041211,Palestinas statsminister
@@ -527,13 +530,16 @@ Q30303260,ambassador to the People's Republic of China
 Q30303260,ambassadrice de Palestine en Chine
 Q30303260,سفير فلسطين لدى الصين
 Q30303260,巴勒斯坦驻中国大使
+Q30621639,Llysgennad Palesteina i Tsili
 Q30621639,Palestinian Ambassador to Chile
 Q30621639,ambasador al Palestinei în Chile
 Q30621639,ambassadeur de Palestine au Chili
 Q30621639,ambassador to Chile
 Q30621639,ambassadrice de Palestine au Chili
 Q30621639,embajador de Palestina en Chile
+Q30621639,lyskannas Palestayn dhe Jile
 Q30621639,посол Государства Палестина в Чили
+Q30621639,سفير فلسطين لدى تشيلي
 Q30621639,قائمة سفراء دولة فلسطين لدى تشيلي
 Q37202196,Minister of Youth and Sports
 Q37202196,Ministro de ła Zoventù e del spor
@@ -592,7 +598,7 @@ Q4119581,председатель Палестинского законодат�
 Q4119581,דובר המועצה המחוקקת הפלסטינית
 Q4119581,رئيس المجلس التشريعي الفلسطيني
 Q4119581,パレスチナ議会議長
-Q4119581,巴勒斯坦立法委员会主席列表
+Q4119581,巴勒斯坦立法委员会主席
 Q4119581,立法評議会議長
 Q5340906,Education Minister of the Palestinian National Authority
 Q5340906,Minister of Education
