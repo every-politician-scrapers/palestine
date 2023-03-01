@@ -206,7 +206,7 @@
             "text": "Abbas in 2021"
           },
           "office": {
-            "text": "President of the Palestinian National Authority",
+            "text": "2nd President of the Palestinian National Authority",
             "links": [
               {
                 "type": "internal",
@@ -251,8 +251,12 @@
             "text": "15 January 2005"
           },
           "predecessor": {
-            "text": "Rawhi Fattouh (interim)",
+            "text": "Yasser Arafat Rawhi Fattouh (interim)",
             "links": [
+              {
+                "type": "internal",
+                "page": "Yasser Arafat"
+              },
               {
                 "type": "internal",
                 "page": "Rawhi Fattouh"
