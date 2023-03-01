@@ -112,7 +112,7 @@
             "text": "Aziz Dweik\nعزيز دويك"
           },
           "office": {
-            "text": "Interim President of the Palestinian National Authority",
+            "text": "Interim President of the Palestinian National Authority (unrecognized Hamas government)",
             "links": [
               {
                 "type": "internal",
@@ -124,37 +124,35 @@
             "text": "15 January 2009"
           },
           "term_end2": {
-            "text": "2 June 2014"
-          },
-          "predecessor": {
-            "text": "Mahmoud Abbas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahmoud Abbas"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Mahmoud Abbas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahmoud Abbas"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Mahmoud Abbas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahmoud Abbas"
-              }
-            ]
+            "text": "2 June 2014 Disputed with Mahmoud Abbas"
           },
           "term_start": {
-            "text": "19 October 2016"
+            "text": "19 October 2016 Disputed with Mahmoud Abbas",
+            "links": [
+              {
+                "text": "Disputed",
+                "type": "internal",
+                "page": "Fatah–Hamas conflict"
+              },
+              {
+                "type": "internal",
+                "page": "Mahmoud Abbas"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Issam al-Da’alis Mohammed Awad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Issam al-Da’alis"
+              },
+              {
+                "text": "Mohammed Awad",
+                "type": "internal",
+                "page": "Mohammed Awad (Palestinian politician)"
+              }
+            ]
           },
           "office3": {
             "text": "Speaker of the Palestinian Legislative Council",
