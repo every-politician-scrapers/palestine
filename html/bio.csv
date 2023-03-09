@@ -14,8 +14,8 @@ Q27146386,Abeer Odeh,female,1961-07-19,11,,,Abeer Odeh 002 (cropped).png,Abeer O
 Q334795,Abu Ali Mustafa,male,1938-05-14,11,2001-08-27,11,,Abu Ali Mustafa
 Q96769584,Adly Sadeq,male,1951-07-10,11,,,,
 Q101055268,Adnan Abu al-Hayjaa,male,,,,,Adnan M.A. Abualhayjaa.jpg,
-Q97704039,Adnan Ghaith,male,1978,9,,,,Adnan Ghaith
 Q4683929,Adnan al-Husayni,male,1947,9,,,,Adnan al-Husayni
+Q97704039,Adnan Ghaith,male,1978,9,,,,Adnan Ghaith
 Q383257,Afif Safieh,male,1950-05-04,11,,,Dmitry Medvedev with Afif Safieh.jpg,Afif Safieh
 Q99688835,Ahmad Rabaie,male,1964,9,,,Ahmed Rabaie.jpg,Ahmad Rabaie
 Q99947421,Ahmad Sakhr Bisisu,male,1944,9,,,,
@@ -26,6 +26,7 @@ Q378833,Ahmed Qurei,male,1937-03-26,11,2023-02-22,11,أحمد قريع.jpg,Ahmed
 Q97651631,Akram Al-Khateeb,male,1972-12-17,11,,,,
 Q37196932,Akram Al-Rajoub,male,1963,9,,,,
 Q12189830,Al Tayeb Abdul Rahim,male,1944,9,2020-03-18,11,,Al Tayeb Abdul Rahim
+Q42342915,al-Mutawakkil Ṭāhā,male,1958,9,,,,
 Q96240826,Amal Hamad,female,1963-07-12,11,,,,
 Q4739202,Amal Syam,female,1962-12-14,11,,,,Amal Syam
 Q104775812,Anis al-Qaq,male,1947-06-01,11,,,,Anis al-Qaq
@@ -39,8 +40,8 @@ Q4849108,Baker Abdel Munem,male,1942,9,,,,Baker Abdel Munem
 Q100901258,Dalal Salameh,female,1966,9,,,Dalal Salameh.jpg,Dalal Salameh
 Q99445772,Diab Al-Louh,male,1958-12-28,11,,,,
 Q37192793,Essam Abu Baker,male,1957,9,,,,
-Q101189773,Fadi Hanania,male,,,,,,
 Q99078658,Fadi al-Hadami,male,1977-11-04,11,,,فادي الهدمي.jpg,Fadi al-Hadami
+Q101189773,Fadi Hanania,male,,,,,,
 Q111016581,Fares al-qub,male,,,,,,
 Q83375088,Fariz Mehdawi,male,1951-10-19,11,,,,
 Q5438993,Fayed Mustafa,male,1965-07-23,11,,,Dmitry Medvedev with Fayed Mustafa.jpg,Faed Mustafa
@@ -118,9 +119,9 @@ Q101190577,Montaser Abu Zeid,male,1955-01-27,11,,,,
 Q83379738,Moustapha Saphariny,male,1950-03-26,11,,,,
 Q102177603,Mufeed Shami,male,1954-09-15,11,,,,
 Q12130336,Muhammad Al Assad,male,1958-10-10,11,,,Mohammed Alassad 1.jpg,
+Q104214449,Muhammad al-Qudwa,male,1946-08-06,11,2021-12-16,11,,Muhammad al-Qudwa
 Q96449608,Muhammad Kamal Hassouna,male,1942-03-21,11,,,,
 Q100708534,Muhammad Saadat,male,,,,,,
-Q104214449,Muhammad al-Qudwa,male,1946-08-06,11,2021-12-16,11,,Muhammad al-Qudwa
 Q27950616,Munir Al-Aboushi,male,1953-04-27,11,2021-03-14,11,,
 Q47526457,Musa Amer Odeh,male,1947-12-20,11,,,(Musa Amer Odeh) El Ayuntamiento condena los sucesos ocurridos en la franja de Gaza durante las últimas semanas.jpg,
 Q113361558,Nabil Abu Znaid,male,1954-04-18,11,,,,
@@ -150,9 +151,9 @@ Q970706,Saeb Erekat,male,1955-04-28,11,2020-11-10,11,Saeb Erekat December 2014.j
 Q91013600,Saeed Abu Ali,male,1955-01-13,11,,,وزير الداخلية سعيد أبوعلي.jpg,Saeed Abu Ali
 Q100997807,Safwat Ibraghith,male,,,,,,
 Q2213790,Salah Abdel Shafi,male,1962-08-29,11,,,Salah Abdel-Shafi (cropped).jpg,Salah Abdel-Shafi
+Q114784690,Salah al-Din Salah,male,1914,9,2004-08-26,11,,
 Q89488504,Salah Tamari,male,1942-10-27,11,2022-04-23,11,,
 Q25424401,Salah Zawawi,male,1937,9,2023-02-20,11,Salah Zawawi 02).jpg,
-Q114784690,Salah al-Din Salah,male,1914,9,2004-08-26,11,,
 Q12216618,Salim Zanoun,male,1933-12-28,11,2022-12-14,11,Salim Zanoun.jpg,Salim Zanoun
 Q100342199,Salman El Herfi,male,1944-04-24,11,,,Salman El-Herfi.jpg,
 Q106777200,Samih Abdel Fattah,male,1947-05-15,11,,,,
@@ -174,7 +175,6 @@ Q99175741,Youssef Edais,male,1964-04-19,11,,,,
 Q96762456,Youssef Habab,male,,,2020-06-27,11,,
 Q42897037,Zahira Kamal,female,1945,9,,,Zahira Kamal 2010 (1) (cropped).jpg,Zahira Kamal
 Q82082019,Zuhair Al-Shun,male,1958-07-31,11,,,Zuhair Al-Shun.png,
-Q42342915,al-Mutawakkil Ṭāhā,male,1958,9,,,,
 Q97180758,Валід Закут,male,1961,9,,,,
 Q106352895,أحمد البطش,male,,,,,,
 Q98851214,أحمد الديك,male,1960-02-24,11,,,,
